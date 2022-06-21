@@ -1,4 +1,4 @@
-import { FeedFields, FeedItem } from 'rss-parserr/lib/types'
+import { FeedItem } from 'rss-parserr/lib/types'
 import { parse } from 'rss-parserr'
 import { SortMode } from 'types/types'
 
@@ -7,7 +7,7 @@ export default async function parseRSS(
   sortmode?: SortMode,
   filter?: 'today'
 ) {
-  let feedItems: FeedItem[] = []
+  let notes: FeedItem[] = []
 
   for (let i = 0; i < rssObjects.length; i++) {
     let rss = rssObjects[i]
@@ -21,14 +21,14 @@ export default async function parseRSS(
       for (let j = 0; j < len; j++) {
         let item = items[j]
 
-        feedItems.push(item)
+        notes.push(item)
       }
     } catch (e) {
       console.log('Failed to parse feed. Error: ' + e)
     }
   }
 
-  feedItems.sort((a, b) => {
+  notes.sort((a, b) => {
     if (a.published && b.published) {
       let date_a = new Date(a.published)
       let date_b = new Date(b.published)
@@ -41,10 +41,10 @@ export default async function parseRSS(
   })
 
   if (filter) {
-    feedItems = applyFilter(filter, feedItems)
+    notes = applyFilter(filter, notes)
   }
 
-  return feedItems
+  return notes
 }
 
 function applyFilter(filter: string, feedItems: FeedItem[]) {

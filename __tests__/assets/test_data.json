@@ -1,0 +1,1746 @@
+{
+  "data": `<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Trash Taste Podcast]]></title>
+		<description><![CDATA[Trash Taste is a highly anticipated anime podcast exploring anime, manga, and otaku culture with top anime YouTubers Joey from The Anime Man, Garnt from Gigguk, and Connor from Cdawgva and occasionally special guests.]]></description>
+		<link>https://trashtaste.com</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png</url>
+			<title>Trash Taste Podcast</title>
+			<link>https://trashtaste.com</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 17 Jun 2022 20:03:44 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/62d12970/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Trash Taste Podcast]]></author>
+		<copyright><![CDATA[Trash Taste Podcast]]></copyright>
+		<language><![CDATA[en-us]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Trash Taste Podcast</itunes:author>
+		<itunes:summary>Trash Taste is a highly anticipated anime podcast exploring anime, manga, and otaku culture with top anime YouTubers Joey from The Anime Man, Garnt from Gigguk, and Connor from Cdawgva and occasionally special guests.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Trash Taste Podcast</itunes:name>
+			<itunes:email>podcasts60+62d12970@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Leisure">
+			<itunes:category text="Animation &amp; Manga"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		<item>
+			<title><![CDATA[Sitting down with a REAL Anime Composer ft Kevin Penkin | Trash Taste #104]]></title>
+			<description><![CDATA[<p>🪒Get 20% Off and Free Shipping with the code TRASHTASTE at https://manscaped.com/trashtaste</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Sitting-down-with-a-REAL-Anime-Composer-ft-Kevin-Penkin--Trash-Taste-104-e1k2v4m</link>
+			<guid isPermaLink="false">f26d0941-f3e3-4bcf-919a-cd5a173a7d52</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 17 Jun 2022 20:00:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/53623382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-17%2F665446a5-e6d0-364a-3e18-8eedd16702df.mp3" length="208491849" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🪒Get 20% Off and Free Shipping with the code TRASHTASTE at https://manscaped.com/trashtaste&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7194</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>104</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our First Trash Taste Convention | Trash Taste #103]]></title>
+			<description><![CDATA[<p>💻EXPRESSVPN: <a href="https://www.expressvpn.com/trashtaste">https://www.expressvpn.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-First-Trash-Taste-Convention--Trash-Taste-103-e1jo5ns</link>
+			<guid isPermaLink="false">cb142709-09cf-49de-a961-62b5a11b2106</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 10 Jun 2022 20:00:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/53269692/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-9%2F394a8f3e-8163-92ea-d5a2-08b6a93a324e.mp3" length="207913688" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;💻EXPRESSVPN: &lt;a href=&quot;https://www.expressvpn.com/trashtaste&quot;&gt;https://www.expressvpn.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6277</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Goodbye Japan | Trash Taste #102]]></title>
+			<description><![CDATA[HONEY: https://www.joinhoney.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Goodbye-Japan--Trash-Taste-102-e1jecca</link>
+			<guid isPermaLink="false">59e3b79a-28bc-459d-afe5-50c5f0c487a0</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 03 Jun 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/52948810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-2%2F46a22aba-b9aa-698b-f1bb-6ee4eac4398d.mp3" length="215399737" type="audio/mpeg"/>
+			<itunes:summary>HONEY: https://www.joinhoney.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7085</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>102</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Struggles of a Storytime Youtuber(ft. Emirichu ) | Trash Taste #101]]></title>
+			<description><![CDATA[<p>🎮 Download Counterside today! &nbsp;https://ggcont.me/3NCtmAJ</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Struggles-of-a-Storytime-Youtuberft--Emirichu---Trash-Taste-101-e1j49tv</link>
+			<guid isPermaLink="false">c31d4353-5d2b-48eb-a993-bf0c61e5ff35</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 27 May 2022 20:00:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/52618623/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F52618623%2Fd375ecfeb00b393d53f614ccc8cfe023.m4a" length="146107424" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;🎮 Download Counterside today! &amp;nbsp;https://ggcont.me/3NCtmAJ&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>9034</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The 2nd Annual Trash Taste Awards | Trash Taste #100]]></title>
+			<description><![CDATA[<p>🖥️ EXPRESSVPN https://www.expressvpn.com/trashtaste&nbsp;</p>
+<p>🍯 HONEY https://www.joinhoney.com/trashtaste&nbsp;</p>
+<p>🪒Get 20% Off and Free Shipping with the code TRASHTASTE at https://manscaped.com/trashtaste</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-2nd-Annual-Trash-Taste-Awards--Trash-Taste-100-e1in82c</link>
+			<guid isPermaLink="false">feddeade-1aac-4aee-9dc9-74173e577540</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 20 May 2022 20:00:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/52190732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2Fa49de549-efe9-e5b0-6dfb-1f15c6397539.mp3" length="238833504" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🖥️ EXPRESSVPN https://www.expressvpn.com/trashtaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🍯 HONEY https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🪒Get 20% Off and Free Shipping with the code TRASHTASTE at https://manscaped.com/trashtaste&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8529</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>100</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[JAPAN IS OPENING UP TO NEW PEOPLE (ft. Daidus ) | Trash Taste #99]]></title>
+			<description><![CDATA[<p>⭐HONEY: https://www.joinhoney.com/trashtaste&nbsp;</p>
+<p>📦Go to https://partner.bokksu.com/trashtaste and use our code TRASHTASTE15 to get $15 off your first Bokksu Japanese snack box!</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/JAPAN-IS-OPENING-UP-TO-NEW-PEOPLE-ft--Daidus---Trash-Taste-99-e1if3ar</link>
+			<guid isPermaLink="false">91fb8cf4-cd0f-4a22-a5f8-f8cbcdad1434</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 13 May 2022 20:00:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/51923739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-12%2F2b22bd9e-501e-b31a-30dc-768c60d45167.mp3" length="219221856" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;⭐HONEY: https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;📦Go to https://partner.bokksu.com/trashtaste and use our code TRASHTASTE15 to get $15 off your first Bokksu Japanese snack box!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7829</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Wedding Planning is an Absolute Nightmare | Trash Taste #98]]></title>
+			<description><![CDATA[<p>🪒There’s truly never been a better time to try Harry’s. Go to https://www.harrys.com/TRASHTASTE</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Wedding-Planning-is-an-Absolute-Nightmare--Trash-Taste-98-e1i5b2i</link>
+			<guid isPermaLink="false">f11b27fd-00f5-431f-a55e-7f65a2bcb94f</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 06 May 2022 20:00:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/51603986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-6%2F3f5c2777-995a-f83f-3a95-8023a98de2dd.mp3" length="254494017" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🪒There’s truly never been a better time to try Harry’s. Go to https://www.harrys.com/TRASHTASTE&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7424</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>98</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our SECRET Japan Travel Tips | Trash Taste #97]]></title>
+			<description><![CDATA[<p>🍃 Get 1 year supply of vitamin D + 5 individual travel packs FREE with your first purchase: http://athleticgreens.com/trashtaste</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-SECRET-Japan-Travel-Tips--Trash-Taste-97-e1hpni6</link>
+			<guid isPermaLink="false">6b9ce1e7-56b2-42bf-b620-e18676140077</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 29 Apr 2022 20:00:46 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/51223558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-28%2F765ebf58-aed0-ec71-9aa4-8e6a55a8d6f1.mp3" length="222039784" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🍃 Get 1 year supply of vitamin D + 5 individual travel packs FREE with your first purchase: http://athleticgreens.com/trashtaste&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7600</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Proving We Are TRULY Trash Men | Trash Taste #96]]></title>
+			<description><![CDATA[<p>✨EXPRESSVPN: https://www.expressvpn.com/trashtaste&nbsp;</p>
+<p>☁️#1 Air Purifier on Amazon, Levoit➡️ https://amzn.to/3EsvU19</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Proving-We-Are-TRULY-Trash-Men--Trash-Taste-96-e1hfbkl</link>
+			<guid isPermaLink="false">358db90b-6422-437c-b17c-db732105b19f</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 22 Apr 2022 20:00:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/50883669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-21%2Ff7734d78-de94-4355-9bce-f40e09331e50.mp3" length="231700443" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;✨EXPRESSVPN: https://www.expressvpn.com/trashtaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;☁️#1 Air Purifier on Amazon, Levoit➡️ https://amzn.to/3EsvU19&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7533</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[We Survived a MASSIVE Earthquake in Japan | Trash Taste #95]]></title>
+			<description><![CDATA[<p>⭐HONEY: <a href="https://www.joinhoney.com/trashtaste ">https://www.joinhoney.com/trashtaste&nbsp;</a></p>
+<p>📦Go to <a href="https://partner.bokksu.com/trashtaste">https://partner.bokksu.com/trashtaste</a> and use our code TRASHTASTE15 to get $15 off your first Bokksu Japanese snack box!</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Survived-a-MASSIVE-Earthquake-in-Japan--Trash-Taste-95-e1h6o4e</link>
+			<guid isPermaLink="false">3b042efb-f9b0-40b0-9f46-97af7738d98c</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 15 Apr 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/50601550/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F50601550%2F4f089a205c869ef70e314ccec01c2f64.m4a" length="123987030" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;⭐HONEY: &lt;a href=&quot;https://www.joinhoney.com/trashtaste &quot;&gt;https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📦Go to &lt;a href=&quot;https://partner.bokksu.com/trashtaste&quot;&gt;https://partner.bokksu.com/trashtaste&lt;/a&gt; and use our code TRASHTASTE15 to get $15 off your first Bokksu Japanese snack box!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7666</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[This Is Why Real Men Cry | Trash Taste #94]]></title>
+			<description><![CDATA[🕵️‍♂️Use our link at https://www.expressvpn.com/trashtaste to get an extra 3months of ExpressVPN for free!  
+🪒There’s truly never been a better time to try Harry’s. Go to https://www.harrys.com/TRASHTASTE to try Harry’s today.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/This-Is-Why-Real-Men-Cry--Trash-Taste-94-e1gmlvd</link>
+			<guid isPermaLink="false">25a300ef-5b93-4734-8ed3-e5c4f3245ba9</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 08 Apr 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/50075053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F6371eaa3-999c-bfac-2dc2-013aea0eafcb.mp3" length="224333388" type="audio/mpeg"/>
+			<itunes:summary>🕵️‍♂️Use our link at https://www.expressvpn.com/trashtaste to get an extra 3months of ExpressVPN for free!  
+🪒There’s truly never been a better time to try Harry’s. Go to https://www.harrys.com/TRASHTASTE to try Harry’s today.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7661</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>94</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Metaverse was a Mistake | Trash Taste #93]]></title>
+			<description><![CDATA[<p>Enjoy :)</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Metaverse-was-a-Mistake--Trash-Taste-93-e1gelmj</link>
+			<guid isPermaLink="false">65fe3911-4baa-49d3-a571-a98c49378b39</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 01 Apr 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/49812627/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F49812627%2F5becaefff2060fef8e65ad5213d8115a.m4a" length="116670396" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Enjoy :)&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7214</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>93</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our Lives Are a Sitcom | Trash Taste 92]]></title>
+			<description><![CDATA[<p>⭐HONEY: <a href="https://www.joinhoney.com/trashtaste ">https://www.joinhoney.com/trashtaste&nbsp;</a></p>
+<p>✨Get 20% Off and Free Shipping with the code TRASHTASTE at <a href="http://manscaped.com/trashtaste">http://manscaped.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-Lives-Are-a-Sitcom--Trash-Taste-92-e1g7uj4</link>
+			<guid isPermaLink="false">96b8c2c3-9e1f-4095-9f32-1ac1cac18e86</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 25 Mar 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/49592356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-25%2F6f0c134d-f0aa-4caa-612f-262c5b0c8583.mp3" length="198378384" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;⭐HONEY: &lt;a href=&quot;https://www.joinhoney.com/trashtaste &quot;&gt;https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;✨Get 20% Off and Free Shipping with the code TRASHTASTE at &lt;a href=&quot;http://manscaped.com/trashtaste&quot;&gt;http://manscaped.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5792</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>92</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Animals We Could Beat in a Fight | Trash Taste #91]]></title>
+			<description><![CDATA[<p>🪒There’s truly never been a better time to try Harry’s. Go to &nbsp;<a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqblp6Uy1hZllqZGZFNGZQbnBSMU8wMWYtWFZmZ3xBQ3Jtc0tuRVFHZUpwQW9CTUNDOGI2YWhlbTBOQmZweHZicUd2WU5DbXZuU3VFNGlXdUVHU1hKWXo0aW1HRWhoTEx1cG1zOWozc2pmckRWQWFWZThiTWh1WVFKUXdiM0pTekx3TFpvMjlIcjhEejZVVkc2ZzNKUQ&amp;q=https%3A%2F%2Fwww.harrys.com%2FTRASHTASTE" rel="nofollow" target="_blank">https://www.harrys.com/TRASHTASTE</a> to try Harry’s today.</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Animals-We-Could-Beat-in-a-Fight--Trash-Taste-91-e1fsg7c</link>
+			<guid isPermaLink="false">3b1ffe05-dc59-4890-b117-fdbd7ec06065</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 18 Mar 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/49217196/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F49217196%2F95b0f38e27c105e5b2eca177d83a5523.m4a" length="122537469" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;🪒There’s truly never been a better time to try Harry’s. Go to &amp;nbsp;&lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqblp6Uy1hZllqZGZFNGZQbnBSMU8wMWYtWFZmZ3xBQ3Jtc0tuRVFHZUpwQW9CTUNDOGI2YWhlbTBOQmZweHZicUd2WU5DbXZuU3VFNGlXdUVHU1hKWXo0aW1HRWhoTEx1cG1zOWozc2pmckRWQWFWZThiTWh1WVFKUXdiM0pTekx3TFpvMjlIcjhEejZVVkc2ZzNKUQ&amp;amp;q=https%3A%2F%2Fwww.harrys.com%2FTRASHTASTE&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://www.harrys.com/TRASHTASTE&lt;/a&gt; to try Harry’s today.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7576</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>91</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[WE DON'T UNDERSTAND SPORTS | Trash Taste #90]]></title>
+			<description><![CDATA[<p>🕵️‍♂️Use our link at <a href="https://www.expressvpn.com/trashtaste">https://www.expressvpn.com/trashtaste</a> to get an extra 3months of ExpressVPN for free! &nbsp;</p>
+<p>📦Click here <a href="https://partner.bokksu.com/trashtaste">https://partner.bokksu.com/trashtaste</a> and use our code TRASHTASTE15 to get $15 off your Bokksu order!&nbsp;</p>
+<p>📚Check out BOOK☆WALKER for legal Manga &amp; Light Novel eBooks and deals: <a href="https://bit.ly/362qP2o">https://bit.ly/362qP2o</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/WE-DONT-UNDERSTAND-SPORTS--Trash-Taste-90-e1fhk41</link>
+			<guid isPermaLink="false">a20c7a94-24ee-4b5e-afe2-ca91eed7c206</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 11 Mar 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/48860737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-10%2F412e8a67-6923-cd01-d1ca-7aaaeb5dd7c3.mp3" length="235798661" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🕵️‍♂️Use our link at &lt;a href=&quot;https://www.expressvpn.com/trashtaste&quot;&gt;https://www.expressvpn.com/trashtaste&lt;/a&gt; to get an extra 3months of ExpressVPN for free! &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;📦Click here &lt;a href=&quot;https://partner.bokksu.com/trashtaste&quot;&gt;https://partner.bokksu.com/trashtaste&lt;/a&gt; and use our code TRASHTASTE15 to get $15 off your Bokksu order!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;📚Check out BOOK☆WALKER for legal Manga &amp;amp; Light Novel eBooks and deals: &lt;a href=&quot;https://bit.ly/362qP2o&quot;&gt;https://bit.ly/362qP2o&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7827</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>90</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Roasting Our Trash Taste In Music | Trash Taste #89]]></title>
+			<description><![CDATA[<p>⭐Premium Bandai USA - Get FREE SHIPPING on all Digimon items. Offer ends March 9th!: <a href="https://bit.ly/3IGgMy8 ">https://bit.ly/3IGgMy8&nbsp;</a></p>
+<p><br></p>
+<p>🥄Use code TRASHTASTE to get $5 off your Magic Spoon cereal by clicking here: <a href="https://magicspoon.com/TRASHTASTE">https://magicspoon.com/TRASHTASTE</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Roasting-Our-Trash-Taste-In-Music--Trash-Taste-89-e1f50q2</link>
+			<guid isPermaLink="false">19164211-90fe-435a-95c9-ae9f94aeeb50</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 04 Mar 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/48447746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-2%2F5a437122-83a7-e312-b70d-3a340382d53b.mp3" length="237369354" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;⭐Premium Bandai USA - Get FREE SHIPPING on all Digimon items. Offer ends March 9th!: &lt;a href=&quot;https://bit.ly/3IGgMy8 &quot;&gt;https://bit.ly/3IGgMy8&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;🥄Use code TRASHTASTE to get $5 off your Magic Spoon cereal by clicking here: &lt;a href=&quot;https://magicspoon.com/TRASHTASTE&quot;&gt;https://magicspoon.com/TRASHTASTE&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8109</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Dream Episode | Trash Taste #88]]></title>
+			<description><![CDATA[<p>🕵️‍♂️Use our link at <a href="https://www.expressvpn.com/trashtaste ">https://www.expressvpn.com/trashtaste </a>to get an extra 3months of ExpressVPN for free!&nbsp;</p>
+<p>&nbsp;🪒Get 20% Off and Free Shipping with the code TRASHTASTE at <a href="http://manscaped.com/trashtaste">http://manscaped.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Dream-Episode--Trash-Taste-88-e1esp7r</link>
+			<guid isPermaLink="false">98c4c071-1f28-42b9-8e78-8a8595c8ce37</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 25 Feb 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/48177851/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F48177851%2Feaaef1401b9a41d75d4fd61e0efd75a2.m4a" length="119601028" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;🕵️‍♂️Use our link at &lt;a href=&quot;https://www.expressvpn.com/trashtaste &quot;&gt;https://www.expressvpn.com/trashtaste &lt;/a&gt;to get an extra 3months of ExpressVPN for free!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;🪒Get 20% Off and Free Shipping with the code TRASHTASTE at &lt;a href=&quot;http://manscaped.com/trashtaste&quot;&gt;http://manscaped.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7395</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>88</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our Awkward Fan Interactions | Trash Taste #87]]></title>
+			<description><![CDATA[<p>🛒HONEY: <a href="https://www.joinhoney.com/trashtaste ">https://www.joinhoney.com/trashtaste&nbsp;</a></p>
+<p>🥄Use code TRASHTASTE to get $5 off your delicious, healthy Magic Spoon &nbsp;cereal by clicking this link: <a href="https://magicspoon.com/TRASHTASTE">https://magicspoon.com/TRASHTASTE</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-Awkward-Fan-Interactions--Trash-Taste-87-e1eijcf</link>
+			<guid isPermaLink="false">8a595b95-fb7e-42dc-a124-57895f9f4837</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 18 Feb 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/47844175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-18%2Fb27a6508-24c7-c116-41f3-2ff9462ac736.mp3" length="171426178" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🛒HONEY: &lt;a href=&quot;https://www.joinhoney.com/trashtaste &quot;&gt;https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🥄Use code TRASHTASTE to get $5 off your delicious, healthy Magic Spoon &amp;nbsp;cereal by clicking this link: &lt;a href=&quot;https://magicspoon.com/TRASHTASTE&quot;&gt;https://magicspoon.com/TRASHTASTE&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6852</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[We're Still an Anime Podcast | Trash Taste #86]]></title>
+			<description><![CDATA[🕵️‍♂️Use our link at https://www.expressvpn.com/trashtaste to get an  extra 3months of ExpressVPN for free!  
+✨Click here https://partner.bokksu.com/trashtaste and use our code  TRASHTASTE10 to get 10% off your Bokksu subscription order! 
+🪒To start the New Year with some savings, new customers can redeem a  Harry’s Trial Set for just $3 when you go to  https://www.harrys.com/TRASHTASTE
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Were-Still-an-Anime-Podcast--Trash-Taste-86-e1e7qiq</link>
+			<guid isPermaLink="false">94b2e18f-b2e2-43a9-98a2-9dc97e54ee28</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 11 Feb 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/47491098/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F47491098%2F81b7517afd2c85d99dac91c131bbe9cb.m4a" length="131464797" type="audio/x-m4a"/>
+			<itunes:summary>🕵️‍♂️Use our link at https://www.expressvpn.com/trashtaste to get an  extra 3months of ExpressVPN for free!  
+✨Click here https://partner.bokksu.com/trashtaste and use our code  TRASHTASTE10 to get 10% off your Bokksu subscription order! 
+🪒To start the New Year with some savings, new customers can redeem a  Harry’s Trial Set for just $3 when you go to  https://www.harrys.com/TRASHTASTE
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8128</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>86</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Boys Went Snowboarding | Trash Taste #85]]></title>
+			<description><![CDATA[⭐Celebrate Princess Connect! Re: Dive Global's 1st Anniversary with free 10-draws everyday until February 15th! https://bit.ly/ttpxpriconne
+⭐HONEY: https://www.joinhoney.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Boys-Went-Snowboarding--Trash-Taste-85-e1dt0t2</link>
+			<guid isPermaLink="false">9b9ec3f5-5f93-4180-9318-abc824fdc279</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 04 Feb 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/47137122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2F1f3fdd54-69f4-b0a6-dec9-a2af02e86403.mp3" length="245349086" type="audio/mpeg"/>
+			<itunes:summary>⭐Celebrate Princess Connect! Re: Dive Global&apos;s 1st Anniversary with free 10-draws everyday until February 15th! https://bit.ly/ttpxpriconne
+⭐HONEY: https://www.joinhoney.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7291</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>85</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[WE ARE DYING (ft. Abroad in Japan)| Trash Taste #84]]></title>
+			<description><![CDATA[✨Click here https://partner.bokksu.com/trashtaste and use our code TRASHTASTE10 to get 10% off your Bokksu subscription order!  
+✨Get 20% Off and Free Shipping with the code TRASHTASTE at http://manscaped.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/WE-ARE-DYING-ft--Abroad-in-Japan-Trash-Taste-84-e1di1me</link>
+			<guid isPermaLink="false">586fe926-27c1-4a85-8515-c8e15647dc61</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 28 Jan 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/46777486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-27%2F5979b9da-b5bb-917f-d390-f14e103ab068.mp3" length="255754551" type="audio/mpeg"/>
+			<itunes:summary>✨Click here https://partner.bokksu.com/trashtaste and use our code TRASHTASTE10 to get 10% off your Bokksu subscription order!  
+✨Get 20% Off and Free Shipping with the code TRASHTASTE at http://manscaped.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8689</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>84</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Sitting Down with a Legendary Japanese Vtuber (ft. Kson) | Trash Taste #83]]></title>
+			<description><![CDATA[⭐HONEY: https://www.joinhoney.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Sitting-Down-with-a-Legendary-Japanese-Vtuber-ft--Kson--Trash-Taste-83-e1d7967</link>
+			<guid isPermaLink="false">847776cb-ba57-4888-aab9-6426b5232ec7</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Sat, 22 Jan 2022 00:33:53 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/46424711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-20%2Ffc49e61c-fbc9-8345-392a-5171be74dbef.mp3" length="196114176" type="audio/mpeg"/>
+			<itunes:summary>⭐HONEY: https://www.joinhoney.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8171</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>83</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[WE ALMOST DIED | Trash Taste #82]]></title>
+			<description><![CDATA[<p>🕵️‍♂️Use our link at <a href="https://www.expressvpn.com/trashtaste">https://www.expressvpn.com/trashtaste</a> to get an &nbsp;extra 3months of ExpressVPN for free!&nbsp;</p>
+<p>&nbsp;🪒To start the New Year with some savings, new customers can redeem a &nbsp;Harry’s Trial Set for just $3 when you go to <a href="https://www.harrys.com/TRASHTASTE ">https://www.harrys.com/TRASHTASTE &nbsp;</a></p>
+<p>Buy Waifu Cups at <a href="http://gamersupps.gg/?afmc=TrashTaste">http://gamersupps.gg/?afmc=TrashTaste</a> with code &nbsp;[trashtaste]</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/WE-ALMOST-DIED--Trash-Taste-82-e1ctdji</link>
+			<guid isPermaLink="false">4b21ce7d-429e-4469-91c1-e5ed2ecf15f8</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 14 Jan 2022 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/46101554/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F62d12970%2F46101554%2Fb64bbbce31c53a0ca2cecb2b7e6948f5.m4a" length="121227798" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;🕵️‍♂️Use our link at &lt;a href=&quot;https://www.expressvpn.com/trashtaste&quot;&gt;https://www.expressvpn.com/trashtaste&lt;/a&gt; to get an &amp;nbsp;extra 3months of ExpressVPN for free!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;🪒To start the New Year with some savings, new customers can redeem a &amp;nbsp;Harry’s Trial Set for just $3 when you go to &lt;a href=&quot;https://www.harrys.com/TRASHTASTE &quot;&gt;https://www.harrys.com/TRASHTASTE &amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Buy Waifu Cups at &lt;a href=&quot;http://gamersupps.gg/?afmc=TrashTaste&quot;&gt;http://gamersupps.gg/?afmc=TrashTaste&lt;/a&gt; with code &amp;nbsp;[trashtaste]&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7495</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>82</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our WORST Food Takes Yet | Trash Taste #81]]></title>
+			<description><![CDATA[<p>⭐Use code TRASHTASTE for 20% off store wide at &nbsp;<a href="https://ayylienclothing.com/ ">https://ayylienclothing.com/&nbsp;</a></p>
+<p>⭐HONEY:<a href=" https://www.joinhoney.com/trashtaste "> https://www.joinhoney.com/trashtaste&nbsp;</a></p>
+<p>⭐Want FREE tickets to Japan? Use our code: TRASHTASTE10 and link: &nbsp;<a href="https://bit.ly/3z6BH8O">https://bit.ly/3z6BH8O</a> to become eligible to win the giveaway by &nbsp;subscribing to Bokksu, our code will get you 10% off your subscription! &nbsp;Don’t miss out on this unique opportunity available for anyone who &nbsp;subscribes until December 31st! You can find more information on &nbsp;Bokksu’s ‘Tickets to Japan’ Giveaway, including Terms &amp; Conditions &nbsp;and alternative entry methods here: &nbsp;<a href="https://www.bokksu.com/pages/ticketstojapan">https://www.bokksu.com/pages/ticketstojapan</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-WORST-Food-Takes-Yet--Trash-Taste-81-e1c5l2n</link>
+			<guid isPermaLink="false">572f2e0f-5866-42f2-a38b-22f0021543d6</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 31 Dec 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/45322775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-31%2F7c849dc809d217b55a1be3250bfd1802.m4a" length="119283621" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;⭐Use code TRASHTASTE for 20% off store wide at &amp;nbsp;&lt;a href=&quot;https://ayylienclothing.com/ &quot;&gt;https://ayylienclothing.com/&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⭐HONEY:&lt;a href=&quot; https://www.joinhoney.com/trashtaste &quot;&gt; https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⭐Want FREE tickets to Japan? Use our code: TRASHTASTE10 and link: &amp;nbsp;&lt;a href=&quot;https://bit.ly/3z6BH8O&quot;&gt;https://bit.ly/3z6BH8O&lt;/a&gt; to become eligible to win the giveaway by &amp;nbsp;subscribing to Bokksu, our code will get you 10% off your subscription! &amp;nbsp;Don’t miss out on this unique opportunity available for anyone who &amp;nbsp;subscribes until December 31st! You can find more information on &amp;nbsp;Bokksu’s ‘Tickets to Japan’ Giveaway, including Terms &amp;amp; Conditions &amp;nbsp;and alternative entry methods here: &amp;nbsp;&lt;a href=&quot;https://www.bokksu.com/pages/ticketstojapan&quot;&gt;https://www.bokksu.com/pages/ticketstojapan&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7375</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Last Trash Taste of 2021 | Trash Taste #80]]></title>
+			<description><![CDATA[<p>✨🎮 Check out Shadowverse here! : https://bit.ly/SVxTrashTaste&nbsp;</p>
+<p>✨Get 20% Off and Free Shipping with the code TRASHTASTE at http://manscaped.com/trashtaste&nbsp;</p>
+<p>✨Want FREE tickets to Japan? Use our code: TRASHTASTE10 and link: https://bit.ly/3z6BH8O &nbsp;to become eligible to win the giveaway by subscribing to Bokksu, our &nbsp;code will get you 10% off your subscription! Don’t miss out on this &nbsp;unique opportunity available for anyone who subscribes until December &nbsp;31st! You can find more information on Bokksu’s ‘Tickets to Japan’ Giveaway, &nbsp;including Terms &amp; Conditions and alternative entry methods here: https://www.bokksu.com/pages/ticketstojapan &nbsp;&nbsp;</p>
+<p>⭐Trash Taste x APARI DRIP: https://www.apari-shop.com/collections/trash-taste-podcast</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Last-Trash-Taste-of-2021--Trash-Taste-80-e1c38mp</link>
+			<guid isPermaLink="false">3e33c453-0f3a-4ac0-8bc0-47a05e63dff8</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 24 Dec 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/45244569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-23%2F8167785f-d9f7-1848-bece-cdf624873dc2.mp3" length="255484839" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;✨🎮 Check out Shadowverse here! : https://bit.ly/SVxTrashTaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;✨Get 20% Off and Free Shipping with the code TRASHTASTE at http://manscaped.com/trashtaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;✨Want FREE tickets to Japan? Use our code: TRASHTASTE10 and link: https://bit.ly/3z6BH8O &amp;nbsp;to become eligible to win the giveaway by subscribing to Bokksu, our &amp;nbsp;code will get you 10% off your subscription! Don’t miss out on this &amp;nbsp;unique opportunity available for anyone who subscribes until December &amp;nbsp;31st! You can find more information on Bokksu’s ‘Tickets to Japan’ Giveaway, &amp;nbsp;including Terms &amp;amp; Conditions and alternative entry methods here: https://www.bokksu.com/pages/ticketstojapan &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;⭐Trash Taste x APARI DRIP: https://www.apari-shop.com/collections/trash-taste-podcast&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7555</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[It's the Figure Episode | Trash Taste #79]]></title>
+			<description><![CDATA[<p>⭐Trash Taste x APARI DRIP: https://www.apari-shop.com/collections/trash-taste-podcast</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Its-the-Figure-Episode--Trash-Taste-79-e1bo463</link>
+			<guid isPermaLink="false">e4ec21b6-bce7-4d22-8b36-ed2221d43076</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 17 Dec 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/44879491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-15%2Fa10dd3d4-52ab-2592-34db-1199eb783ded.mp3" length="236836957" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;⭐Trash Taste x APARI DRIP: https://www.apari-shop.com/collections/trash-taste-podcast&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>9372</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>79</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Sitting Down With a Real Japanese Host | Trash Taste #78]]></title>
+			<description><![CDATA[<p>⭐EXPRESSVPN: https://www.expressvpn.com/trashtaste&nbsp;</p>
+<p>⭐TRASH TASTE x APARI DRIP: https://www.apari-shop.com/collections/trash-taste-podcast&nbsp;</p>
+<p>⭐Want FREE tickets to Japan? Use my code: TRASHTASTE10 and link: https://bit.ly/3DdWqZP &nbsp;&nbsp;to get 10% off your Bokksu subscription and automatically be entered &nbsp;in their giveaway! Anyone who subscribes before December 31st, even as a &nbsp;gift, will be eligible to win. You can find more information on &nbsp;Bokksu’s ‘Tickets to Japan’ Giveaway, including Terms &amp; Conditions &nbsp;and alternative free entry methods here: https://www.bokksu.com/pages/japangiveawaytc</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Sitting-Down-With-a-Real-Japanese-Host--Trash-Taste-78-e1bgc2l</link>
+			<guid isPermaLink="false">9c68ae22-e561-4e54-a52c-ff324eca5152</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 10 Dec 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/44625429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-10%2Fa67af5c4b8cc39922129510ab37c6ec0.m4a" length="143070618" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;⭐EXPRESSVPN: https://www.expressvpn.com/trashtaste&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;⭐TRASH TASTE x APARI DRIP: https://www.apari-shop.com/collections/trash-taste-podcast&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;⭐Want FREE tickets to Japan? Use my code: TRASHTASTE10 and link: https://bit.ly/3DdWqZP &amp;nbsp;&amp;nbsp;to get 10% off your Bokksu subscription and automatically be entered &amp;nbsp;in their giveaway! Anyone who subscribes before December 31st, even as a &amp;nbsp;gift, will be eligible to win. You can find more information on &amp;nbsp;Bokksu’s ‘Tickets to Japan’ Giveaway, including Terms &amp;amp; Conditions &amp;nbsp;and alternative free entry methods here: https://www.bokksu.com/pages/japangiveawaytc&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8846</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>78</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Trash Taste Tech Tips | Trash Taste Episode #77]]></title>
+			<description><![CDATA[<p>&nbsp;⭐HONEY: <a href="https://www.joinhoney.com/trashtaste">https://www.joinhoney.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Trash-Taste-Tech-Tips--Trash-Taste-Episode-77-e1b1jie</link>
+			<guid isPermaLink="false">9ea6cbf2-947a-4590-8650-43f6bfd100cc</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 03 Dec 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/44141582/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-03%2F6b4894d69c0eb6e5fcf2a911ab293dee.m4a" length="127648064" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&amp;nbsp;⭐HONEY: &lt;a href=&quot;https://www.joinhoney.com/trashtaste&quot;&gt;https://www.joinhoney.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7892</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>77</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[We Don't Understand Public Holidays | Trash Taste #76]]></title>
+			<description><![CDATA[<p>Start speaking a new language in 3 weeks with Babbel🎉 Get up to 65% OFF &nbsp;your subscription here: &nbsp;<a href="https://go.babbel.com/12m65-youtube-trashtastepodcast-nov-2021/default ">https://go.babbel.com/12m65-youtube-trashtastepodcast-nov-2021/default&nbsp;</a></p>
+<p>🪒Get $5 OFF plus free shipping on any Harry’s Limited-Edition Holiday Shave Set when you go to <a href="https://Harrys.com/TRASH">https://Harrys.com/TRASH</a></p>
+<p>&nbsp;🍯Get HONEY for FREE and save money at <a href="https://www.joinhoney.com/trashtaste">https://www.joinhoney.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Dont-Understand-Public-Holidays--Trash-Taste-76-e1aqrvm</link>
+			<guid isPermaLink="false">860bc731-e8ff-4f81-9911-2cc1c92f2805</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 26 Nov 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/43920822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2Ffd851a79-a649-89fb-8dc7-1084228d9471.mp3" length="241835691" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Start speaking a new language in 3 weeks with Babbel🎉 Get up to 65% OFF &amp;nbsp;your subscription here: &amp;nbsp;&lt;a href=&quot;https://go.babbel.com/12m65-youtube-trashtastepodcast-nov-2021/default &quot;&gt;https://go.babbel.com/12m65-youtube-trashtastepodcast-nov-2021/default&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🪒Get $5 OFF plus free shipping on any Harry’s Limited-Edition Holiday Shave Set when you go to &lt;a href=&quot;https://Harrys.com/TRASH&quot;&gt;https://Harrys.com/TRASH&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;🍯Get HONEY for FREE and save money at &lt;a href=&quot;https://www.joinhoney.com/trashtaste&quot;&gt;https://www.joinhoney.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7190</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>76</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[WE LIVE IN A SOCIETY | Trash Taste #75]]></title>
+			<description><![CDATA[<p>✨Get 20% Off and Free Shipping with the code TRASHTASTE at <a href="http://manscaped.com/trashtaste ">http://manscaped.com/trashtaste&nbsp;</a></p>
+<p>✨Want FREE tickets to Japan? Use our code: TRASHTASTE10 and link: <a href="https://bit.ly/3z6BH8O">https://bit.ly/3z6BH8O</a> &nbsp;to become eligible to win the giveaway by subscribing to Bokksu, our &nbsp;code will get you 10% off your subscription! Don’t miss out on this &nbsp;unique opportunity available for anyone who subscribes until December &nbsp;31st! You can find more information on Bokksu’s ‘Tickets to Japan’ Giveaway, &nbsp;including Terms &amp; Conditions and alternative entry methods here: <a href="https://www.bokksu.com/pages/ticketstojapan">https://www.bokksu.com/pages/ticketstojapan</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/WE-LIVE-IN-A-SOCIETY--Trash-Taste-75-e1ag34h</link>
+			<guid isPermaLink="false">52e3baf6-4ef8-428c-8b65-45e312d6d6f7</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 19 Nov 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/43567697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-18%2F12fcb70b-2acc-16b7-cc12-d31b67c0342a.mp3" length="234056492" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;✨Get 20% Off and Free Shipping with the code TRASHTASTE at &lt;a href=&quot;http://manscaped.com/trashtaste &quot;&gt;http://manscaped.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;✨Want FREE tickets to Japan? Use our code: TRASHTASTE10 and link: &lt;a href=&quot;https://bit.ly/3z6BH8O&quot;&gt;https://bit.ly/3z6BH8O&lt;/a&gt; &amp;nbsp;to become eligible to win the giveaway by subscribing to Bokksu, our &amp;nbsp;code will get you 10% off your subscription! Don’t miss out on this &amp;nbsp;unique opportunity available for anyone who subscribes until December &amp;nbsp;31st! You can find more information on Bokksu’s ‘Tickets to Japan’ Giveaway, &amp;nbsp;including Terms &amp;amp; Conditions and alternative entry methods here: &lt;a href=&quot;https://www.bokksu.com/pages/ticketstojapan&quot;&gt;https://www.bokksu.com/pages/ticketstojapan&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8036</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>75</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Vtuber Rap God Returns ft. Mori Calliope | Trash Taste #74]]></title>
+			<description><![CDATA[<p>Zenmarket - Order from Japan today and save 300 Yen:<a href=" https://bit.ly/3bGp6zg "> https://bit.ly/3bGp6zg&nbsp;</a></p>
+<p>Thank you to ZenMarket for sponsoring today's episode.</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Vtuber-Rap-God-Returns-ft--Mori-Calliope--Trash-Taste-74-e1a32ps</link>
+			<guid isPermaLink="false">f4d65e39-aecb-4c77-bab7-670ad0eaf4c5</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 12 Nov 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/43141372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-10%2Fb6a87c32-e1a6-b1af-1e6a-d02706c26a32.mp3" length="227769696" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Zenmarket - Order from Japan today and save 300 Yen:&lt;a href=&quot; https://bit.ly/3bGp6zg &quot;&gt; https://bit.ly/3bGp6zg&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thank you to ZenMarket for sponsoring today&apos;s episode.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8134</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>74</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[WE WILL NEVER UNDERSTAND JAPANESE | Trash Taste #73]]></title>
+			<description><![CDATA[<p>⭐EXPRESSVPN: <a href="https://www.expressvpn.com/trashtaste ">https://www.expressvpn.com/trashtaste&nbsp;</a></p>
+<p>🍯Get HONEY for FREE and save money at <a href="https://www.joinhoney.com/trashtaste">https://www.joinhoney.com/trashtaste</a>&nbsp;</p>
+<p>Thanks to ExpressVPN and Honey for sponsoring this episode.</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/WE-WILL-NEVER-UNDERSTAND-JAPANESE--Trash-Taste-73-e19pmsf</link>
+			<guid isPermaLink="false">5e632126-a4f1-48be-acc4-41f402d5b963</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 05 Nov 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/42834255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F1eeb0b80-9ea9-2f65-8d02-f9fa4b2029c7.mp3" length="246513092" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;⭐EXPRESSVPN: &lt;a href=&quot;https://www.expressvpn.com/trashtaste &quot;&gt;https://www.expressvpn.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🍯Get HONEY for FREE and save money at &lt;a href=&quot;https://www.joinhoney.com/trashtaste&quot;&gt;https://www.joinhoney.com/trashtaste&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Thanks to ExpressVPN and Honey for sponsoring this episode.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8432</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>73</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[GHOSTS DON'T SCARE US | Trash Taste #72]]></title>
+			<description><![CDATA[<p>Support Us On Patreon: https://www.patreon.com/trashtaste</p>
+<p>Follow Trash Taste: https://twitter.com/TrashTastePod&nbsp;</p>
+<p>https://www.reddit.com/r/TrashTaste/</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/GHOSTS-DONT-SCARE-US--Trash-Taste-72-e197qqp</link>
+			<guid isPermaLink="false">9ffd42bb-da40-4365-835d-1f5b438ce321</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 29 Oct 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/42248473/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F20f59034c37e628b98ff4ecbd5b59117.m4a" length="129179658" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Support Us On Patreon: https://www.patreon.com/trashtaste&lt;/p&gt;
+&lt;p&gt;Follow Trash Taste: https://twitter.com/TrashTastePod&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;https://www.reddit.com/r/TrashTaste/&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7987</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>72</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[WE ARE PRIVILEGED | Trash Taste #71]]></title>
+			<description><![CDATA[<p>🪒Go to <a href="https://www.harrys.com/trash">https://www.harrys.com/trash</a> to get heir Starter Set for just 3 bucks!&nbsp;</p>
+<p>🍯Get HONEY for FREE and save money at <a href="https://www.joinhoney.com/trashtaste">https://www.joinhoney.com/trashtaste</a>&nbsp;</p>
+<p><br></p>
+<p>Thank you to Harrys and Honey for sponsoring today's episode</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/WE-ARE-PRIVILEGED--Trash-Taste-71-e1955om</link>
+			<guid isPermaLink="false">c4d8aaa6-44f6-4ab4-9829-8ddbc570db5a</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 22 Oct 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/42161366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-22%2F96f28dd6-ef47-1b55-6608-39b65b9e43e7.mp3" length="250230980" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🪒Go to &lt;a href=&quot;https://www.harrys.com/trash&quot;&gt;https://www.harrys.com/trash&lt;/a&gt; to get heir Starter Set for just 3 bucks!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;🍯Get HONEY for FREE and save money at &lt;a href=&quot;https://www.joinhoney.com/trashtaste&quot;&gt;https://www.joinhoney.com/trashtaste&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Thank you to Harrys and Honey for sponsoring today&apos;s episode&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7528</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Quarantine Nightmares | Trash Taste #70]]></title>
+			<description><![CDATA[<p>⭐Get 20% off + free shipping by going to <a href="http://manscaped.com/trashtaste">http://manscaped.com/trashtaste</a> Thank you to Manscaped for sponsoring this episode.</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Quarantine-Nightmares--Trash-Taste-70-e18q3it</link>
+			<guid isPermaLink="false">7137716b-fdb5-4bd4-91c3-364f5fde7089</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 15 Oct 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/41798685/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2Ff35c54ecc947f7fb3ec630cfd033340e.m4a" length="134891075" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;⭐Get 20% off + free shipping by going to &lt;a href=&quot;http://manscaped.com/trashtaste&quot;&gt;http://manscaped.com/trashtaste&lt;/a&gt; Thank you to Manscaped for sponsoring this episode.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8340</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>70</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Nice | Trash Taste #69]]></title>
+			<description><![CDATA[<p>EXPRESSVPN: <a href="https://www.expressvpn.com/trashtaste" target="_blank" rel="nofollow">https://www.expressvpn.com/trashtaste</a></p>
+<p>BOKKSU: ​Use our code TRASHTASTE10 and link: <a href="https://bit.ly/3szHDoH" target="_blank" rel="nofollow">https://bit.ly/3szHDoH</a> &nbsp;to get 10% off (save up to $47!) your own authentic Japanese subscription box from Bokksu! Don't miss out on this amazing snack-journey through Japan!</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Nice--Trash-Taste-69-e18ek5f</link>
+			<guid isPermaLink="false">5ed1151a-30ac-41fe-b971-5b3f57d8bdce</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 08 Oct 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/41422447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2F4c87a67f-9006-ec1f-70cf-23a06da4649e.mp3" length="250918076" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;EXPRESSVPN: &lt;a href=&quot;https://www.expressvpn.com/trashtaste&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://www.expressvpn.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BOKKSU: ​Use our code TRASHTASTE10 and link: &lt;a href=&quot;https://bit.ly/3szHDoH&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://bit.ly/3szHDoH&lt;/a&gt; &amp;nbsp;to get 10% off (save up to $47!) your own authentic Japanese subscription box from Bokksu! Don&apos;t miss out on this amazing snack-journey through Japan!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7460</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>69</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Dark World of Chris Chan | Trash Taste #68]]></title>
+			<description><![CDATA[🍯Get HONEY: https://www.joinhoney.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Dark-World-of-Chris-Chan--Trash-Taste-68-e1820br</link>
+			<guid isPermaLink="false">ad4e5640-bcd5-49c1-bdea-239a4728b924</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 01 Oct 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/41008955/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-01%2Fe0172741ee8e885d9c84de7579f75b8c.m4a" length="129259696" type="audio/x-m4a"/>
+			<itunes:summary>🍯Get HONEY: https://www.joinhoney.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7992</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>68</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[EXPOSING Our Manager | Trash Taste #67]]></title>
+			<description><![CDATA[<p>⭐Join us and play Genshin Impact here: <a href="https://click.fan/TT_Genshin ">https://click.fan/TT_Genshin&nbsp;</a></p>
+<p>⭐Get 20% off + free shipping by going to <a href="http://manscaped.com/trashtaste">http://manscaped.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/EXPOSING-Our-Manager--Trash-Taste-67-e17pjma</link>
+			<guid isPermaLink="false">e44fc44e-20bf-4acd-a874-da732d277b6b</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 24 Sep 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/40733834/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-30%2Fca3af58b52e99c1a675ee4087df309f2.m4a" length="141162574" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;⭐Join us and play Genshin Impact here: &lt;a href=&quot;https://click.fan/TT_Genshin &quot;&gt;https://click.fan/TT_Genshin&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⭐Get 20% off + free shipping by going to &lt;a href=&quot;http://manscaped.com/trashtaste&quot;&gt;http://manscaped.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8728</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>67</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[We Got SCAMMED | Trash Taste #66]]></title>
+			<description><![CDATA[<p>🎫Buy your tickets for the Hatsune Miku Kabuki show now!: <a href="https://bit.ly/391FuJv">https://bit.ly/391FuJv</a> (C) NTT-SHOCHIKU PARTNERS (C)CHOKABUKI</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Got-SCAMMED--Trash-Taste-66-e17fafa</link>
+			<guid isPermaLink="false">f862a18b-2bf2-434b-9e7d-bee03d8a896d</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 17 Sep 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/40396714/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-17%2Fb96f4f9c5ec40874ffebe98ff34fa51b.m4a" length="131861019" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;🎫Buy your tickets for the Hatsune Miku Kabuki show now!: &lt;a href=&quot;https://bit.ly/391FuJv&quot;&gt;https://bit.ly/391FuJv&lt;/a&gt; (C) NTT-SHOCHIKU PARTNERS (C)CHOKABUKI&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8153</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>66</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[We CANNOT Stop Arguing | Trash Taste #65]]></title>
+			<description><![CDATA[Use our code TRASHTASTE10 and link: https://bit.ly/3j2BOgb to get 10%  off (save up to $47!) your own authentic Japanese subscription box from  Bokksu! Don't miss out on this amazing snack-journey through Japan!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-CANNOT-Stop-Arguing--Trash-Taste-65-e174ah0</link>
+			<guid isPermaLink="false">445517c2-8e03-4528-96de-b7b3a000df9f</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 10 Sep 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/40036320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-9%2F433ea47e-6de8-c20d-fd7f-e0198fa76a6b.mp3" length="238877806" type="audio/mpeg"/>
+			<itunes:summary>Use our code TRASHTASTE10 and link: https://bit.ly/3j2BOgb to get 10%  off (save up to $47!) your own authentic Japanese subscription box from  Bokksu! Don&apos;t miss out on this amazing snack-journey through Japan!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7004</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>65</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[We Hate Our Fans | Trash Taste #64]]></title>
+			<description><![CDATA[<p>EXPRESSVPN: <a href="https://www.expressvpn.com/trashtaste ">https://www.expressvpn.com/trashtaste&nbsp;</a></p>
+<p>⭐For 20% off your first order, visit <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbUhtX1ZMM1JvX3IxV3AwZDBLYUU4a2tESHJrd3xBQ3Jtc0tsc1J1NU1lZmQtMnlVaGRMWDhDS0VVRGlycnk5cy1OY2wwUDIwUU54aEg2cFYyZFEwOUl6aUx2SXk0UnlQQ2dwQzMxdFh4WG1HUWZJa2h1ekdVTExqenJjbkt0c3c3cDRqZ0hNLTFTZlJtWE9ZYlNERQ&amp;q=https%3A%2F%2Fwww.mackweldon.com%2Ftrashtaste" rel="nofollow" target="_blank">https://www.mackweldon.com/trashtaste</a> &amp; ENTER PROMO CODE: trashtaste</p>
+<p>Get HONEY: <a href="https://www.joinhoney.com/trashtaste">https://www.joinhoney.com/trashtaste</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Hate-Our-Fans--Trash-Taste-64-e16ol2k</link>
+			<guid isPermaLink="false">128e2605-1036-4e5b-83cd-d3071dcd2d40</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 03 Sep 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/39653908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-1%2Fdfa1eeb0-f155-3177-810d-df9fab1d0144.mp3" length="248206999" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;EXPRESSVPN: &lt;a href=&quot;https://www.expressvpn.com/trashtaste &quot;&gt;https://www.expressvpn.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⭐For 20% off your first order, visit &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbUhtX1ZMM1JvX3IxV3AwZDBLYUU4a2tESHJrd3xBQ3Jtc0tsc1J1NU1lZmQtMnlVaGRMWDhDS0VVRGlycnk5cy1OY2wwUDIwUU54aEg2cFYyZFEwOUl6aUx2SXk0UnlQQ2dwQzMxdFh4WG1HUWZJa2h1ekdVTExqenJjbkt0c3c3cDRqZ0hNLTFTZlJtWE9ZYlNERQ&amp;amp;q=https%3A%2F%2Fwww.mackweldon.com%2Ftrashtaste&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://www.mackweldon.com/trashtaste&lt;/a&gt; &amp;amp; ENTER PROMO CODE: trashtaste&lt;/p&gt;
+&lt;p&gt;Get HONEY: &lt;a href=&quot;https://www.joinhoney.com/trashtaste&quot;&gt;https://www.joinhoney.com/trashtaste&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8439</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/16478748/d601cdaa7d4b6295.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Summer In Japan IS HELL | Trash Taste #63]]></title>
+			<description><![CDATA[<p>Install Mech Arena for Free &nbsp;IOS/ANDROID: <a href="https://clcr.me/QmtJiO">https://clcr.me/QmtJiO</a> and get &nbsp;a special starter pack &nbsp;Available only for the next 30 days &nbsp;</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Summer-In-Japan-IS-HELL--Trash-Taste-63-e16fvhm</link>
+			<guid isPermaLink="false">ce497f0a-2e7e-4ce3-81ca-480904e2f2b9</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 27 Aug 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/39369718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-26%2Ff1e518ee-ae6d-2b0e-de3a-99d3039e48f5.mp3" length="228724224" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Install Mech Arena for Free &amp;nbsp;IOS/ANDROID: &lt;a href=&quot;https://clcr.me/QmtJiO&quot;&gt;https://clcr.me/QmtJiO&lt;/a&gt; and get &amp;nbsp;a special starter pack &amp;nbsp;Available only for the next 30 days &amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7147</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>63</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Our Terrible Boomer Takes | Trash Taste #62]]></title>
+			<description><![CDATA[<p>📦Use our code TRASHTASTE10 and link: <a href="https://bit.ly/37Ce5gt">https://bit.ly/37Ce5gt</a> to get 10% off (save up to $47!) your own authentic Japanese subscription box from Bokksu! Don't miss out on this amazing snack-journey through Japan!</p>
+<p>☕[LIMITED TIME] Buy the Official Trash Taste mugs here: <a href="https://trashtastemugs.com/">https://trashtastemugs.com/</a><br>
+</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-Terrible-Boomer-Takes--Trash-Taste-62-e165ikp</link>
+			<guid isPermaLink="false">61daf90f-4ce9-4247-97ac-dd6366cd137e</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 20 Aug 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/39028825/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-24%2F5baa525bf2c8ca26fca636ea387d56a8.m4a" length="126702806" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;📦Use our code TRASHTASTE10 and link: &lt;a href=&quot;https://bit.ly/37Ce5gt&quot;&gt;https://bit.ly/37Ce5gt&lt;/a&gt; to get 10% off (save up to $47!) your own authentic Japanese subscription box from Bokksu! Don&apos;t miss out on this amazing snack-journey through Japan!&lt;/p&gt;
+&lt;p&gt;☕[LIMITED TIME] Buy the Official Trash Taste mugs here: &lt;a href=&quot;https://trashtastemugs.com/&quot;&gt;https://trashtastemugs.com/&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7834</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>62</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Roasting our Trash Taste in Manga | Trash Taste #61]]></title>
+			<description><![CDATA[<p>⭐EXPRESSVPN: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbWtLS1hNZXBlV0xjWEp2ZHhLM2NIXzJVaXNyZ3xBQ3Jtc0tuZEhpN3hmcERoZjJyUXFHajBuRks0SU9WVi1Fam9ISDlzQUExdy1QN2JURkNzWF9CdzNqT3ExZXAxXzdxQkRpaUtJNGRoMzhOQmF3UVB2dXV1aDRVdGQ0RE1Jbm9OZ2FTTTA3NnJZbWtnVTZBQTlybw&amp;q=https%3A%2F%2Fwww.expressvpn.com%2Ftrashtaste" rel="nofollow" target="_blank">https://www.expressvpn.com/trashtaste</a> for 3 months free&nbsp;</p>
+<p>⭐Get 20% off + free shipping by going to <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqblY0b0JiT1ZibWUtank3NGVrVEptOS1HYmJkUXxBQ3Jtc0tuUFU5TFFQak9ZZXhmNDhXUjZXVm5qUWhnNUx1SmJ5a2dHMmlKaDZHMFJ6VHhVdG14c25JdkxGU2FTZnJHVTZTaGNFZWlyVkNGaXJQanltR1RrMFdqSVBpejN0RnpSanhGQ3dRQ3R2aE1jREV3WC02cw&amp;q=http%3A%2F%2Fmanscaped.com%2Ftrashtaste" rel="nofollow" target="_blank">http://manscaped.com/trashtaste</a> For a clean trinity and Beyond, Your Space Balls Will Thank You</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Roasting-our-Trash-Taste-in-Manga--Trash-Taste-61-e15s069</link>
+			<guid isPermaLink="false">a2b4767e-e33c-4ef4-a026-591da9b99603</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 13 Aug 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/38715017/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-13%2F0f2299a26b52c4aace7c5e4456faa1ee.m4a" length="169495261" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;⭐EXPRESSVPN: &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbWtLS1hNZXBlV0xjWEp2ZHhLM2NIXzJVaXNyZ3xBQ3Jtc0tuZEhpN3hmcERoZjJyUXFHajBuRks0SU9WVi1Fam9ISDlzQUExdy1QN2JURkNzWF9CdzNqT3ExZXAxXzdxQkRpaUtJNGRoMzhOQmF3UVB2dXV1aDRVdGQ0RE1Jbm9OZ2FTTTA3NnJZbWtnVTZBQTlybw&amp;amp;q=https%3A%2F%2Fwww.expressvpn.com%2Ftrashtaste&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://www.expressvpn.com/trashtaste&lt;/a&gt; for 3 months free&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;⭐Get 20% off + free shipping by going to &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqblY0b0JiT1ZibWUtank3NGVrVEptOS1HYmJkUXxBQ3Jtc0tuUFU5TFFQak9ZZXhmNDhXUjZXVm5qUWhnNUx1SmJ5a2dHMmlKaDZHMFJ6VHhVdG14c25JdkxGU2FTZnJHVTZTaGNFZWlyVkNGaXJQanltR1RrMFdqSVBpejN0RnpSanhGQ3dRQ3R2aE1jREV3WC02cw&amp;amp;q=http%3A%2F%2Fmanscaped.com%2Ftrashtaste&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;http://manscaped.com/trashtaste&lt;/a&gt; For a clean trinity and Beyond, Your Space Balls Will Thank You&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>10480</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Roasting our Terrible Taste in Movies | Trash Taste #60]]></title>
+			<description><![CDATA[<p>Download Punishing: Gray Raven here: <a href="https://click.fan/TrashTastePGR">https://click.fan/TrashTastePGR</a> &amp; make sure to use bonus code: C2b83fm30g&nbsp;</p>
+<p>[LIMITED TIME] Buy the Official Trash Taste mugs here: <a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbTRCbU5kSWwwTXZ1eGNJSjNWaW56Z3NuVWNnUXxBQ3Jtc0tsQmMwZXdwaUtpZGsxbGdWeEpTRkQyMDItaXo1MnRIam8zZEZPNzl6ejAyWGluUWRJUmZ0cS01cmhsSmR0cjV1UGdhaDNia295WjkxSTlaZk16OFExYVByaGRiclhJVmR1UUphbjZLXzhCYjRDVlZiQQ&amp;q=https%3A%2F%2Ftrashtastemugs.com%2F" rel="nofollow" target="_blank">https://trashtastemugs.com/</a> First 1,000 orders get a limited edition collectable postcard!!</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Roasting-our-Terrible-Taste-in-Movies--Trash-Taste-60-e15go1m</link>
+			<guid isPermaLink="false">4956a1d4-b90e-496a-98db-4f770a9291cd</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 06 Aug 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/38346230/sponsor/a69rb0g/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-06%2Fa6d07fd1229e67f709a92631e97ea823.m4a" length="134801749" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Download Punishing: Gray Raven here: &lt;a href=&quot;https://click.fan/TrashTastePGR&quot;&gt;https://click.fan/TrashTastePGR&lt;/a&gt; &amp;amp; make sure to use bonus code: C2b83fm30g&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;[LIMITED TIME] Buy the Official Trash Taste mugs here: &lt;a href=&quot;https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbTRCbU5kSWwwTXZ1eGNJSjNWaW56Z3NuVWNnUXxBQ3Jtc0tsQmMwZXdwaUtpZGsxbGdWeEpTRkQyMDItaXo1MnRIam8zZEZPNzl6ejAyWGluUWRJUmZ0cS01cmhsSmR0cjV1UGdhaDNia295WjkxSTlaZk16OFExYVByaGRiclhJVmR1UUphbjZLXzhCYjRDVlZiQQ&amp;amp;q=https%3A%2F%2Ftrashtastemugs.com%2F&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://trashtastemugs.com/&lt;/a&gt; First 1,000 orders get a limited edition collectable postcard!!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8335</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Biggest Scandal in Anime History | Trash Taste #59]]></title>
+			<description><![CDATA[<p>Get HONEY: <a href="https://www.joinhoney.com/trashtaste ">https://www.joinhoney.com/trashtaste&nbsp;</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Biggest-Scandal-in-Anime-History--Trash-Taste-59-e153dbv</link>
+			<guid isPermaLink="false">213142c5-be6b-4881-b14a-82304d7ed3b1</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 30 Jul 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/37909311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-27%2F98b22ce2-ee86-2e75-d4f1-217f52efde9f.mp3" length="227678742" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Get HONEY: &lt;a href=&quot;https://www.joinhoney.com/trashtaste &quot;&gt;https://www.joinhoney.com/trashtaste&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6477</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>59</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Sitting with a Real Japanese Anime Voice Actor (ft. Shuu Uchida) | Trash Taste #58]]></title>
+			<description><![CDATA[<p>🍣Try a 14-day free trial of Crunchyroll Premium at <a href="http://www.crunchyroll.com/trashtaste">http://www.crunchyroll.com/trashtaste</a> ⭐Get 20% off + free shipping by going to <a href="http://manscaped.com/trashtaste">http://manscaped.com/trashtaste</a> . Tame that Summer Swamp in your pants with MANSCAPED™</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Sitting-with-a-Real-Japanese-Anime-Voice-Actor-ft--Shuu-Uchida--Trash-Taste-58-e14r83k</link>
+			<guid isPermaLink="false">1b19c997-ef21-43bf-ba40-16687f3ccfc0</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 23 Jul 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/37641780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-22%2F083579a9-44d7-7725-1640-dc4e7df8bfd8.mp3" length="242942093" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;🍣Try a 14-day free trial of Crunchyroll Premium at &lt;a href=&quot;http://www.crunchyroll.com/trashtaste&quot;&gt;http://www.crunchyroll.com/trashtaste&lt;/a&gt; ⭐Get 20% off + free shipping by going to &lt;a href=&quot;http://manscaped.com/trashtaste&quot;&gt;http://manscaped.com/trashtaste&lt;/a&gt; . Tame that Summer Swamp in your pants with MANSCAPED™&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7052</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>58</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Proving We're Actually an Anime Podcast | Trash Taste #57]]></title>
+			<description><![CDATA[<p>Use our code <strong>TRASHTASTE20</strong> and link:<a href=" https://bit.ly/2UiHDMP"> https://bit.ly/2UiHDMP</a> to get 20% off your first authentic Japanese snack box from Bokksu! Take advantage of this limited time offer!</p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Proving-Were-Actually-an-Anime-Podcast--Trash-Taste-57-e14hrr9</link>
+			<guid isPermaLink="false">0d93e130-31d5-458e-892d-8333d47bdf5e</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 16 Jul 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/37334313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-16%2F3c4cb673-a9ce-0f8c-fd7b-dafdea506a69.mp3" length="230005899" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Use our code &lt;strong&gt;TRASHTASTE20&lt;/strong&gt; and link:&lt;a href=&quot; https://bit.ly/2UiHDMP&quot;&gt; https://bit.ly/2UiHDMP&lt;/a&gt; to get 20% off your first authentic Japanese snack box from Bokksu! Take advantage of this limited time offer!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6926</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>57</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[
+100 WAYS TO DIE (ft. Abroad in Japan) | Trash Taste #56]]></title>
+			<description><![CDATA[<p>💧NEW Apari drip drops today @8PM ET : <a href="https://bit.ly/apari-trashtaste">https://bit.ly/apari-trashtaste</a> ✨Download Honkai Impact3rd now &amp; join the event: <a href="https://bit.ly/TrashtasteHonkai4">https://bit.ly/TrashtasteHonkai4</a>9 🍣Try a 14-day free trial of Crunchyroll Premium at <a href="http://www.crunchyroll.com/trashtaste ">http://www.crunchyroll.com/trashtaste &nbsp;</a></p>
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/100-WAYS-TO-DIE-ft--Abroad-in-Japan--Trash-Taste-56-e144av3</link>
+			<guid isPermaLink="false">7f40cfc5-ce6f-417a-899e-76d51a3e9c9d</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 09 Jul 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36891043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-8%2Faa1af27d-fc01-9058-156d-f87d5abdf29e.mp3" length="239718021" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;💧NEW Apari drip drops today @8PM ET : &lt;a href=&quot;https://bit.ly/apari-trashtaste&quot;&gt;https://bit.ly/apari-trashtaste&lt;/a&gt; ✨Download Honkai Impact3rd now &amp;amp; join the event: &lt;a href=&quot;https://bit.ly/TrashtasteHonkai4&quot;&gt;https://bit.ly/TrashtasteHonkai4&lt;/a&gt;9 🍣Try a 14-day free trial of Crunchyroll Premium at &lt;a href=&quot;http://www.crunchyroll.com/trashtaste &quot;&gt;http://www.crunchyroll.com/trashtaste &amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8088</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>56</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Welcome to Trash Taste Season 2 | Trash Taste #55]]></title>
+			<description><![CDATA[⭐EXPRESSVPN: https://www.expressvpn.com/trashtaste for 3 months free 
+⭐For 20% off your first order, visit https://www.mackweldon.com/trashtaste & ENTER PROMO CODE: trashtaste
+⭐Get HONEY: https://www.joinhoney.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Welcome-to-Trash-Taste-Season-2--Trash-Taste-55-e13ug2o</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/welcome-to-trash-taste-season-2-trash-taste-55</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 02 Jul 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921381-48000-2-b59b9e0cad567fb7.mp3" length="294792996" type="audio/mpeg"/>
+			<itunes:summary>⭐EXPRESSVPN: https://www.expressvpn.com/trashtaste for 3 months free 
+⭐For 20% off your first order, visit https://www.mackweldon.com/trashtaste &amp; ENTER PROMO CODE: trashtaste
+⭐Get HONEY: https://www.joinhoney.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7223</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Goodbye Trash Taste Season 1 | Trash Taste #54]]></title>
+			<description><![CDATA[Get 20% off your own authentic Japanese snack box from Bokksu using our link: https://bit.ly/3gpuUjF & code TRASHTASTE20
+ Go to http://vessi.com/trashtaste & use code [trashtaste] to get $25off of your Vessi shoes if you miss the sale! Free shipping to CA, US, AUS, NZ, JP, TW, KR, SGP
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Goodbye-Trash-Taste-Season-1--Trash-Taste-54-e13ug1q</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/goodbye-trash-taste-season-1-trash-taste-54</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 25 Jun 2021 08:57:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921305-48000-2-74ed680d680e5ded.mp3" length="297501363" type="audio/mpeg"/>
+			<itunes:summary>Get 20% off your own authentic Japanese snack box from Bokksu using our link: https://bit.ly/3gpuUjF &amp; code TRASHTASTE20
+ Go to http://vessi.com/trashtaste &amp; use code [trashtaste] to get $25off of your Vessi shoes if you miss the sale! Free shipping to CA, US, AUS, NZ, JP, TW, KR, SGP
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7064</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Doujin Episode | Trash Taste #53]]></title>
+			<description><![CDATA[THIRSTY after hearing about all these doujin? Grab WAIFU CUPS AND GAMER SUPPS NOW: http://gamersupps.gg/?afmc=TrashTaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Doujin-Episode--Trash-Taste-53-e13ug34</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-doujin-episode-trash-taste-53</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 18 Jun 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921331-48000-2-36a36f2cc38999b4.mp3" length="354997440" type="audio/mpeg"/>
+			<itunes:summary>THIRSTY after hearing about all these doujin? Grab WAIFU CUPS AND GAMER SUPPS NOW: http://gamersupps.gg/?afmc=TrashTaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8874</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Can't Stop Giving Bad Opinions | Trash Taste #52]]></title>
+			<description><![CDATA[⭐EXPRESSVPN: https://www.expressvpn.com/trashtaste⭐Go to http://www.harrys.com/TRASHTASTE to get a Starter Set and a FREE Body Wash for $3!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Cant-Stop-Giving-Bad-Opinions--Trash-Taste-52-e13ug2q</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-can39t-stop-giving-bad-opinions-trash-taste-52</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 11 Jun 2021 19:13:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699674/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921335-48000-2-21c67c3b08d2267c.mp3" length="288029920" type="audio/mpeg"/>
+			<itunes:summary>⭐EXPRESSVPN: https://www.expressvpn.com/trashtaste⭐Go to http://www.harrys.com/TRASHTASTE to get a Starter Set and a FREE Body Wash for $3!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6974</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We've Had Enough of Japan | Trash Taste #51]]></title>
+			<description><![CDATA[⭐Get HONEY for free at: https://www.joinhoney.com/trashtaste ⭐Get 25% at https://liquidiv.com/​ by entering code TRASHTASTE at checkout (also available nationwide in bulk at COSTCO!)
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Weve-Had-Enough-of-Japan--Trash-Taste-51-e13ug3r</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we39ve-had-enough-of-japan-trash-taste-51</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 04 Jun 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921330-48000-2-d94b287489d32493.mp3" length="305980619" type="audio/mpeg"/>
+			<itunes:summary>⭐Get HONEY for free at: https://www.joinhoney.com/trashtaste ⭐Get 25% at https://liquidiv.com/​ by entering code TRASHTASTE at checkout (also available nationwide in bulk at COSTCO!)
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7284</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Trash Taste Awards | Trash Taste #50]]></title>
+			<description><![CDATA[Get 10% OFF https://atsuko.com/trashtaste with code "TrashTaste" at checkout
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Trash-Taste-Awards--Trash-Taste-50-e13ug2i</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-trash-taste-awards-trash-taste-50</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 28 May 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921315-48000-2-bddd9f9e8f91142c.mp3" length="381102720" type="audio/mpeg"/>
+			<itunes:summary>Get 10% OFF https://atsuko.com/trashtaste with code &quot;TrashTaste&quot; at checkout
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>9527</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Should Never Travel in Japan | Trash Taste #49]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/We-Should-Never-Travel-in-Japan--Trash-Taste-49-e13ug2s</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-should-never-travel-in-japan-trash-taste-49</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 21 May 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921329-48000-2-26b0561f5143be30.mp3" length="333075874" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7948</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Do We Drink Too Much?? | Trash Taste #48]]></title>
+			<description><![CDATA[⭐Get Honey for Free: https://www.joinhoney.com/trashtaste 
+⭐Try a 14-day free trial of Crunchyroll Premium at https://www.crunchyroll.com/trashtaste 
+⭐Go to https://harrys.com/TRASHTASTE​​ to get a Starter Set and a FREE Body Wash for $3!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Do-We-Drink-Too-Much----Trash-Taste-48-e13ug39</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/do-we-drink-too-much-trash-taste-48</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 14 May 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921374-48000-2-e4670dfd6874c42b.mp3" length="335485470" type="audio/mpeg"/>
+			<itunes:summary>⭐Get Honey for Free: https://www.joinhoney.com/trashtaste 
+⭐Try a 14-day free trial of Crunchyroll Premium at https://www.crunchyroll.com/trashtaste 
+⭐Go to https://harrys.com/TRASHTASTE​​ to get a Starter Set and a FREE Body Wash for $3!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7960</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Don’t Understand Live Streamers | Trash Taste #47]]></title>
+			<description><![CDATA[Get 3 months of ExpressVPN for free. Visit http://expressvpn.com/trashtaste
+For 20% off your first order, visit http://mackweldon.com/trashtaste and enter promo code trashtaste
+Get 25% off when you go to http://liquidiv.com/ and use code TRASHTASTELiquidIV
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Dont-Understand-Live-Streamers--Trash-Taste-47-e13ug1h</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-dont-understand-live-streamers-trash-taste-47</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 07 May 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921270-48000-2-e1ef68144b13bcff.mp3" length="270700165" type="audio/mpeg"/>
+			<itunes:summary>Get 3 months of ExpressVPN for free. Visit http://expressvpn.com/trashtaste
+For 20% off your first order, visit http://mackweldon.com/trashtaste and enter promo code trashtaste
+Get 25% off when you go to http://liquidiv.com/ and use code TRASHTASTELiquidIV
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6436</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Let's Just JUMP Right Into It (ft. Reina Scully) | Trash Taste #46]]></title>
+			<description><![CDATA[✨Get 20%OFF https://www.manscaped.com​ with code trashtaste ✨Get 10% off your own authentic Japanese snack box from Bokksu: https://bit.ly/3nbM8Df​ & Use code TRASHTASTE10 ✨ 10%OFF during your first 3mo at http://ritual.com/TRASHTASTE
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Lets-Just-JUMP-Right-Into-It-ft--Reina-Scully--Trash-Taste-46-e13ug2g</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/let39s-just-jump-right-into-it-ft-reina-scully-trash-taste-46</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 30 Apr 2021 19:59:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921348-48000-2-f9c643a696683a5b.mp3" length="347044853" type="audio/mpeg"/>
+			<itunes:summary>✨Get 20%OFF https://www.manscaped.com​ with code trashtaste ✨Get 10% off your own authentic Japanese snack box from Bokksu: https://bit.ly/3nbM8Df​ &amp; Use code TRASHTASTE10 ✨ 10%OFF during your first 3mo at http://ritual.com/TRASHTASTE
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8419</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Roasting our Terrible Taste in Games | Trash Taste #45]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Roasting-our-Terrible-Taste-in-Games--Trash-Taste-45-e13ug24</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/roasting-our-terrible-taste-in-games-trash-taste-45</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 23 Apr 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921311-48000-2-c48d7c1dbdf48eab.mp3" length="329321673" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8016</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Sitting Down with a Pro Cross-Dressing Idol Wrestler (ft. Ladybeard) | Trash Taste #44]]></title>
+			<description><![CDATA[-Get Honey for Free: https://www.joinhoney.com/trashtaste-Go to https://harrys.com/TRASHTASTE​ to get a Starter Set and a FREE Body Wash for $3!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Sitting-Down-with-a-Pro-Cross-Dressing-Idol-Wrestler-ft--Ladybeard--Trash-Taste-44-e13ug2c</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/sitting-down-with-a-pro-cross-dressing-idol-wrestler-ft-ladybeard-trash-taste-44</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 16 Apr 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699660/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921320-48000-2-24247301003fd2b4.mp3" length="362441188" type="audio/mpeg"/>
+			<itunes:summary>-Get Honey for Free: https://www.joinhoney.com/trashtaste-Go to https://harrys.com/TRASHTASTE​ to get a Starter Set and a FREE Body Wash for $3!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8764</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Our Trash Taste In TV | Trash Taste #43]]></title>
+			<description><![CDATA[Thank you to ExpressVPN for sponsoring todays episode: https://www.expressvpn.com/trashtaste
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-Trash-Taste-In-TV--Trash-Taste-43-e13ug3k</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/our-trash-taste-in-tv-trash-taste-43</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 09 Apr 2021 20:05:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921257-48000-2-94c5d48b723a7954.mp3" length="296433600" type="audio/mpeg"/>
+			<itunes:summary>Thank you to ExpressVPN for sponsoring todays episode: https://www.expressvpn.com/trashtaste
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7410</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Exposing the Truth of YouTube (ft. akidearest) | Trash Taste #42]]></title>
+			<description><![CDATA[Grab your Strawberry Liquid I.V. or their other great flavors in bulk nationwide at Costco or get 25% at https://liquidiv.com/ by entering code TRASHTASTE at checkout
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Exposing-the-Truth-of-YouTube-ft--akidearest--Trash-Taste-42-e13ug25</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/exposing-the-truth-of-youtube-ft-akidearest-trash-taste-42</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 02 Apr 2021 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921316-48000-2-6e10942fe7e4335c.mp3" length="334483436" type="audio/mpeg"/>
+			<itunes:summary>Grab your Strawberry Liquid I.V. or their other great flavors in bulk nationwide at Costco or get 25% at https://liquidiv.com/ by entering code TRASHTASTE at checkout
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7936</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The YouTuber Life is CURSED | Trash Taste #41]]></title>
+			<description><![CDATA[⭐Get key nutrients–without the B.S. Ritual is offering our listeners 10%off during your first 3 months. Visit https://ritual.com/TRASHTASTE to start your Ritual today. ⭐Buy Official Anime Merch from EJANiME Store: https://bit.ly/3clC4Uf
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-YouTuber-Life-is-CURSED--Trash-Taste-41-e13ug1j</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-youtuber-life-is-cursed-trash-taste-41</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 26 Mar 2021 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921303-48000-2-0b548767fe82006d.mp3" length="274319299" type="audio/mpeg"/>
+			<itunes:summary>⭐Get key nutrients–without the B.S. Ritual is offering our listeners 10%off during your first 3 months. Visit https://ritual.com/TRASHTASTE to start your Ritual today. ⭐Buy Official Anime Merch from EJANiME Store: https://bit.ly/3clC4Uf
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6776</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The WORST Japanese Convenience Store Food | Trash Taste #40]]></title>
+			<description><![CDATA[Get 10% off your own authentic Japanese snack box from Bokksu: http://bit.ly/3licFxH​ & Use code TRASHTASTE10
+ Go to https://harrys.com/TRASHTASTE​​ to get a Starter Set and a FREE Body Wash for $3!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-WORST-Japanese-Convenience-Store-Food--Trash-Taste-40-e13ug36</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-worst-japanese-convenience-store-food-trash-taste-40-1</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 19 Mar 2021 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921402-48000-2-e6adf8f8f6accca4.mp3" length="279421440" type="audio/mpeg"/>
+			<itunes:summary>Get 10% off your own authentic Japanese snack box from Bokksu: http://bit.ly/3licFxH​ &amp; Use code TRASHTASTE10
+ Go to https://harrys.com/TRASHTASTE​​ to get a Starter Set and a FREE Body Wash for $3!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6985</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The WORST Japanese Convenience Store Food | Trash Taste #40]]></title>
+			<description><![CDATA[Get 10% off your own authentic Japanese snack box from Bokksu: http://bit.ly/3licFxH​ & Use code TRASHTASTE10
+ Go to https://harrys.com/TRASHTASTE​​ to get a Starter Set and a FREE Body Wash for $3!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-WORST-Japanese-Convenience-Store-Food--Trash-Taste-40-e13ug1o</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-worst-japanese-convenience-store-food-trash-taste-40</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 19 Mar 2021 18:40:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921304-48000-2-132a7e883d3965fb.mp3" length="279421440" type="audio/mpeg"/>
+			<itunes:summary>Get 10% off your own authentic Japanese snack box from Bokksu: http://bit.ly/3licFxH​ &amp; Use code TRASHTASTE10
+ Go to https://harrys.com/TRASHTASTE​​ to get a Starter Set and a FREE Body Wash for $3!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6985</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[THINGS THAT TERRIFY US | Trash Taste #39]]></title>
+			<description><![CDATA[⭐Get HONEY: https://www.joinhoney.com/trashtaste ⭐Read the latest ATTACK ON TITAN manga chapters on BOOKWALKER: http://bit.ly/3qqG4GW
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/THINGS-THAT-TERRIFY-US--Trash-Taste-39-e13ug1m</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/things-that-terrify-us-trash-taste-39</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 12 Mar 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921319-48000-2-5487d96302800761.mp3" length="275990775" type="audio/mpeg"/>
+			<itunes:summary>⭐Get HONEY: https://www.joinhoney.com/trashtaste ⭐Read the latest ATTACK ON TITAN manga chapters on BOOKWALKER: http://bit.ly/3qqG4GW
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6678</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Talking to a REAL Japanese Anime Singer (ft. Nano) | Trash Taste #38]]></title>
+			<description><![CDATA[-EXPRESSVPN: https://www.expressvpn.com/trashtaste-CustomCast iOS http://apple.co/2Nig4Qb / Android: http://bit.ly/2Nn4Aup -For 20%off your 1st order, visit https://www.mackweldon.com/trashtaste​ & ENTER PROMO CODE: [trashtaste]
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Talking-to-a-REAL-Japanese-Anime-Singer-ft--Nano--Trash-Taste-38-e13ug2a</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/talking-to-a-real-japanese-anime-singer-ft-nano-trash-taste-38</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 05 Mar 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921332-48000-2-cbb63883557812c2.mp3" length="303453900" type="audio/mpeg"/>
+			<itunes:summary>-EXPRESSVPN: https://www.expressvpn.com/trashtaste-CustomCast iOS http://apple.co/2Nig4Qb / Android: http://bit.ly/2Nn4Aup -For 20%off your 1st order, visit https://www.mackweldon.com/trashtaste​ &amp; ENTER PROMO CODE: [trashtaste]
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7238</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[How to NOT Flirt with a YouTuber | Trash Taste #37]]></title>
+			<description><![CDATA[-Go to https://harrys.com/TRASHTASTE to get a Starter Set and a FREE Body Wash for $3! -Buy Official Anime Merch from EJANiME Store: http://bit.ly/2OQP7Uq -Watch our Co-Stream of the Crunchyroll Anime Awards Feb19 5PM PT: https://www.twitch.tv/trashtastepodcast
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/How-to-NOT-Flirt-with-a-YouTuber--Trash-Taste-37-e13ug23</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/how-to-not-flirt-with-a-youtuber-trash-taste-37</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 19 Feb 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921324-48000-2-0f74d1c73f536511.mp3" length="307650132" type="audio/mpeg"/>
+			<itunes:summary>-Go to https://harrys.com/TRASHTASTE to get a Starter Set and a FREE Body Wash for $3! -Buy Official Anime Merch from EJANiME Store: http://bit.ly/2OQP7Uq -Watch our Co-Stream of the Crunchyroll Anime Awards Feb19 5PM PT: https://www.twitch.tv/trashtastepodcast
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7395</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Talking to a REAL JoJo Animator (ft. Ken Arto) | Trash Taste #36]]></title>
+			<description><![CDATA[EXPRESSVPN: https://www.expressvpn.com/trashtaste Get Honey for Free: https://www.joinhoney.com/trashtasteGet 30% OFF G-FUEL with code [TrashTaste] at https://gfuel.ly/3ffmNUS
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Talking-to-a-REAL-JoJo-Animator-ft--Ken-Arto--Trash-Taste-36-e13ug1s</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/talking-to-a-real-jojo-animator-ft-ken-arto-trash-taste-36</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 12 Feb 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921269-48000-2-7fd8327e5770a7ec.mp3" length="281781799" type="audio/mpeg"/>
+			<itunes:summary>EXPRESSVPN: https://www.expressvpn.com/trashtaste Get Honey for Free: https://www.joinhoney.com/trashtasteGet 30% OFF G-FUEL with code [TrashTaste] at https://gfuel.ly/3ffmNUS
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6584</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Have Trash Taste in Manga | Trash Taste #35]]></title>
+			<description><![CDATA[Get 30% OFF G-FUEL with code [TrashTaste] at https://gfuel.ly/3ffmNUS
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Have-Trash-Taste-in-Manga--Trash-Taste-35-e13ug31</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-have-trash-taste-in-manga-trash-taste-35</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 05 Feb 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921342-48000-2-9d5289b143d40013.mp3" length="306115182" type="audio/mpeg"/>
+			<itunes:summary>Get 30% OFF G-FUEL with code [TrashTaste] at https://gfuel.ly/3ffmNUS
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7404</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Roasting Our Horrible Anime Tastes | Trash Taste #34]]></title>
+			<description><![CDATA[Download and play AFK Arena for free ► http://bit.ly/TrashTasteYoutube Use bonus code: PERSONA5 to get awesome rewards. Get Honey for Free: https://www.joinhoney.com/trashtaste Get 30% OFF G-FUEL with code [TrashTaste] at https://gfuel.ly/3ffmNUS
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Roasting-Our-Horrible-Anime-Tastes--Trash-Taste-34-e13ug2k</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/roasting-our-horrible-anime-tastes-trash-taste-34</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 29 Jan 2021 21:09:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921322-48000-2-bbbecff59ca283c1.mp3" length="344300160" type="audio/mpeg"/>
+			<itunes:summary>Download and play AFK Arena for free ► http://bit.ly/TrashTasteYoutube Use bonus code: PERSONA5 to get awesome rewards. Get Honey for Free: https://www.joinhoney.com/trashtaste Get 30% OFF G-FUEL with code [TrashTaste] at https://gfuel.ly/3ffmNUS
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8607</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We're Too Addicted to Gacha Games | Trash Taste #33]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Were-Too-Addicted-to-Gacha-Games--Trash-Taste-33-e13ug1n</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we39re-too-addicted-to-gacha-games-trash-taste-33</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 22 Jan 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921264-48000-2-863f8a3810547830.mp3" length="244178880" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7999</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Don't Know How to Poop | Trash Taste #32]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/We-Dont-Know-How-to-Poop--Trash-Taste-32-e13ug32</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-don39t-know-how-to-poop-trash-taste-32</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 15 Jan 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921401-48000-2-69ff9c9a9be90876.mp3" length="309903360" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7747</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Japan Is A Real Life Gacha Game | Trash Taste #31]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Japan-Is-A-Real-Life-Gacha-Game--Trash-Taste-31-e13ug2b</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/japan-is-a-real-life-gacha-game-trash-taste-31</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 08 Jan 2021 21:03:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699659/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921272-48000-2-7afb5233bfe80092.mp3" length="297961297" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7047</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[A Very Drunk Start to the New Year (ft. Abroad in Japan) | Trash Taste #30]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/A-Very-Drunk-Start-to-the-New-Year-ft--Abroad-in-Japan--Trash-Taste-30-e13ug26</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/a-very-drunk-start-to-the-new-year-ft-abroad-in-japan-trash-taste-30</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 01 Jan 2021 21:06:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921314-48000-2-341a7a6e4169ecf7.mp3" length="345490560" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8637</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Christmas Horror Stories | Trash Taste #29]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Christmas-Horror-Stories--Trash-Taste-29-e13ug35</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/christmas-horror-stories-trash-taste-29</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 25 Dec 2020 20:55:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921306-48000-2-aca7f141e1c20ead.mp3" length="282411717" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6716</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Are Online Friends REAL Friends? | Trash Taste #28]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Are-Online-Friends-REAL-Friends---Trash-Taste-28-e13ug27</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/are-online-friends-real-friends-trash-taste-28</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 18 Dec 2020 20:44:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921323-48000-2-9bcf381aa1a5f5fd.mp3" length="340535067" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8143</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The #1 Drifting YouTuber in Japan (ft. Noriyaro) | Trash Taste #27]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/The-1-Drifting-YouTuber-in-Japan-ft--Noriyaro--Trash-Taste-27-e13ug38</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-1-drifting-youtuber-in-japan-ft-noriyaro-trash-taste-27</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 11 Dec 2020 20:35:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921373-44100-2-9eac695a06b4982e.mp3" length="295419667" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7385</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Our Trash Taste in YouTubers | Trash Taste #26]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Our-Trash-Taste-in-YouTubers--Trash-Taste-26-e13ug37</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/our-trash-taste-in-youtubers-trash-taste-26</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 04 Dec 2020 20:58:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921321-48000-2-aa3c549f3f1d7387.mp3" length="356865600" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8921</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Hentai Episode | Trash Taste #25]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/The-Hentai-Episode--Trash-Taste-25-e13ug2n</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-hentai-episode-trash-taste-25</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 27 Nov 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921339-48000-2-2c3cfae4e737a06b.mp3" length="340967924" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8122</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We're Too Addicted To The Internet | Trash Taste #24]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Were-Too-Addicted-To-The-Internet--Trash-Taste-24-e13ug1t</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we39re-too-addicted-to-the-internet-trash-taste-24</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 20 Nov 2020 20:46:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921334-48000-2-9362765236ff2e5b.mp3" length="281119680" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7027</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Met a REAL Virtual YouTuber (ft. Mori Calliope) | Trash Taste #23]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/We-Met-a-REAL-Virtual-YouTuber-ft--Mori-Calliope--Trash-Taste-23-e13ug3e</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-met-a-real-virtual-youtuber-ft-mori-calliope-trash-taste-23</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 13 Nov 2020 20:30:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921343-48000-2-9b9a1ab449899ca8.mp3" length="302674560" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7566</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Anime Convention Horror Stories | Trash Taste #22]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Anime-Convention-Horror-Stories--Trash-Taste-22-e13ug22</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/anime-convention-horror-stories-trash-taste-22</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 06 Nov 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921307-48000-2-b33415451fed3710.mp3" length="329582177" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7946</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Roasting our WORST Takes on Anime | Trash Taste #21]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Roasting-our-WORST-Takes-on-Anime--Trash-Taste-21-e13ug2e</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/roasting-our-worst-takes-on-anime-trash-taste-21</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 23 Oct 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921355-48000-2-73b3398e3b913e1c.mp3" length="328828345" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7859</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Exposing Our Degenerate Side (ft. sydsnap) | Trash Taste #20]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Exposing-Our-Degenerate-Side-ft--sydsnap--Trash-Taste-20-e13ug2t</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/exposing-our-degenerate-side-ft-sydsnap-trash-taste-20</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 16 Oct 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921365-48000-2-9fdc0435add4a857.mp3" length="335396160" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8384</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Need a Break From YouTube | Trash Taste #19]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/We-Need-a-Break-From-YouTube--Trash-Taste-19-e13ug1p</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-need-a-break-from-youtube-trash-taste-19</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 09 Oct 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921262-44100-2-dffa074866efe843.mp3" length="262173300" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8192</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We've Fallen Down the Vtuber Rabbit Hole | Trash Taste #18]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Weve-Fallen-Down-the-Vtuber-Rabbit-Hole--Trash-Taste-18-e13ug1u</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we39ve-fallen-down-the-vtuber-rabbit-hole-trash-taste-18</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 02 Oct 2020 19:54:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921310-48000-2-21dfad76e80033b1.mp3" length="298460803" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7115</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Japanese Food You've Never Tried | Trash Taste #17]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/The-Japanese-Food-Youve-Never-Tried--Trash-Taste-17-e13ug33</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-japanese-food-you39ve-never-tried-trash-taste-17</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 25 Sep 2020 19:58:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921364-48000-2-cfbc44044ec3f837.mp3" length="349903680" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8747</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The WORST Fandoms in Anime | Trash Taste #16]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/The-WORST-Fandoms-in-Anime--Trash-Taste-16-e13ug2r</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-worst-fandoms-in-anime-trash-taste-16</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 18 Sep 2020 19:57:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921312-48000-2-2e0778e7803fd9c5.mp3" length="331110996" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7953</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The REAL Japanese Nightlife Experience | Trash Taste #15]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/The-REAL-Japanese-Nightlife-Experience--Trash-Taste-15-e13ug2p</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-real-japanese-nightlife-experience-trash-taste-15</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 11 Sep 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921337-48000-2-d65a3729cf149910.mp3" length="339056407" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8086</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Most BORING Anime | Trash Taste #14]]></title>
+			<description><![CDATA[The boy's discuss the most boring anime as well as some Webtoons!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Most-BORING-Anime--Trash-Taste-14-e13ug20</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-most-boring-anime-trash-taste-14</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 04 Sep 2020 22:11:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921328-48000-2-53ad0fcd7c031846.mp3" length="304259143" type="audio/mpeg"/>
+			<itunes:summary>The boy&apos;s discuss the most boring anime as well as some Webtoons!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7303</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Uncovering Secrets Behind Anime Piracy | Trash Taste #13]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/Uncovering-Secrets-Behind-Anime-Piracy--Trash-Taste-13-e13ug0n</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/uncovering-secrets-behind-anime-piracy-trash-taste-13</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 28 Aug 2020 20:19:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699607/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921248-44100-2-85fcebf36ab8b761.mp3" length="121030362" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7563</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[College Horror Stories | Trash Taste #12]]></title>
+			<link>https://anchor.fm/trashtaste/episodes/College-Horror-Stories--Trash-Taste-12-e13ug29</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/college-horror-stories-trash-taste-12</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 21 Aug 2020 19:47:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921359-48000-2-d0ef474ae4b0c185.mp3" length="288396276" type="audio/mpeg"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6923</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Sitting Down with a Japanese Pornstar (ft. Shibuya Kaho) | Trash Taste #11]]></title>
+			<description><![CDATA[The boys and special guest, Shibuya Kaho, chat and gain her unique perspective from Journalist to JAV.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Sitting-Down-with-a-Japanese-Pornstar-ft--Shibuya-Kaho--Trash-Taste-11-e13ug28</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/sitting-down-with-a-japanese-pornstar-ft-shibuya-kaho-trash-taste-11</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 14 Aug 2020 20:12:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921317-48000-2-34a1a2b4677e6520.mp3" length="353083666" type="audio/mpeg"/>
+			<itunes:summary>The boys and special guest, Shibuya Kaho, chat and gain her unique perspective from Journalist to JAV.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8464</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Our Dark Past with Anime YouTube | Trash Taste #10]]></title>
+			<description><![CDATA[Anitubers Joey, Garnt, and Connor talk about their start on YouTube from monkhood to their motivation to create content.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Our-Dark-Past-with-Anime-YouTube--Trash-Taste-10-e13ug2d</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/our-dark-past-with-anime-youtube-trash-taste-10</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 07 Aug 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921341-48000-2-b1ea781b9c3a15b4.mp3" length="328844364" type="audio/mpeg"/>
+			<itunes:summary>Anitubers Joey, Garnt, and Connor talk about their start on YouTube from monkhood to their motivation to create content.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7952</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Japan's Earthquakes Are Terrifying | Trash Taste #9]]></title>
+			<description><![CDATA[TOURNAMENT ARCCCCC, Music, and megaquakes with Joey, Garnt, and Connor!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Japans-Earthquakes-Are-Terrifying--Trash-Taste-9-e13ug0u</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/japan39s-earthquakes-are-terrifying-trash-taste-9</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 31 Jul 2020 20:27:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921325-32000-2-12629b69b760e568.mp3" length="103435572" type="audio/mpeg"/>
+			<itunes:summary>TOURNAMENT ARCCCCC, Music, and megaquakes with Joey, Garnt, and Connor!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6464</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[We Don't Understand Anime Games | Trash Taste #8]]></title>
+			<description><![CDATA[Today Joey, Garnt, and Connor talk about Anime Games and why they don't understand them
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/We-Dont-Understand-Anime-Games--Trash-Taste-8-e13ug0t</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/we-don39t-understand-anime-games-trash-taste-8</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 24 Jul 2020 21:15:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921313-44100-2-31cf58e33e756f54.mp3" length="108044117" type="audio/mpeg"/>
+			<itunes:summary>Today Joey, Garnt, and Connor talk about Anime Games and why they don&apos;t understand them
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6752</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Internet Kinda Sucks Right Now | Trash Taste #7]]></title>
+			<description><![CDATA[Today we discuss the pros and cons of being an online personality and why being on the Internet now is scarier than it's ever been before.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Internet-Kinda-Sucks-Right-Now--Trash-Taste-7-e13ug1c</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-internet-kinda-sucks-right-now-trash-taste-7</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 17 Jul 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921267-48000-2-d8a39a5e26dea8e0.mp3" length="245702292" type="audio/mpeg"/>
+			<itunes:summary>Today we discuss the pros and cons of being an online personality and why being on the Internet now is scarier than it&apos;s ever been before.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>5953</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Don't Watch Anime to Learn Japanese | Trash Taste #6]]></title>
+			<description><![CDATA[Today we discuss our learning methods for Japanese, anime that changed our life, and Connor's anime-like story of how he became a pro chess player!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Dont-Watch-Anime-to-Learn-Japanese--Trash-Taste-6-e13ug11</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/don39t-watch-anime-to-learn-japanese-trash-taste-6</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 10 Jul 2020 20:59:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921266-48000-2-14472bf431df015b.mp3" length="121439563" type="audio/mpeg"/>
+			<itunes:summary>Today we discuss our learning methods for Japanese, anime that changed our life, and Connor&apos;s anime-like story of how he became a pro chess player!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>7589</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[Don't Be a YouTuber in Japan (ft. Abroad in Japan) | Trash Taste #5]]></title>
+			<description><![CDATA[Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) discuss being a YouTuber in Japan with guest "Abroad in Japan".
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/Dont-Be-a-YouTuber-in-Japan-ft--Abroad-in-Japan--Trash-Taste-5-e13ug0s</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/don39t-be-a-youtuber-in-japan-ft-abroad-in-japan-trash-taste-5</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 03 Jul 2020 16:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921258-48000-2-c56db9037e988291.mp3" length="130464715" type="audio/mpeg"/>
+			<itunes:summary>Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) discuss being a YouTuber in Japan with guest &quot;Abroad in Japan&quot;.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>8154</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[How to NOT Buy Anime Figures | Trash Taste #4]]></title>
+			<description><![CDATA[Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) travel to Akihabara for an Anime merchandise buying challenge.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/How-to-NOT-Buy-Anime-Figures--Trash-Taste-4-e13ug0p</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/how-to-not-buy-anime-figures-trash-taste-4</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 26 Jun 2020 19:50:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921249-44100-2-ac3536c1b07d510f.mp3" length="76792404" type="audio/mpeg"/>
+			<itunes:summary>Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) travel to Akihabara for an Anime merchandise buying challenge.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4799</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Anime That Shaped Our Childhoods | Trash Taste #3]]></title>
+			<description><![CDATA[Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) discuss the anime that shaped their childhoods.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Anime-That-Shaped-Our-Childhoods--Trash-Taste-3-e13ug12</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-anime-that-shaped-our-childhoods-trash-taste-3</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 19 Jun 2020 21:55:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921255-44100-2-5113fced5dc273a3.mp3" length="97658390" type="audio/mpeg"/>
+			<itunes:summary>Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) discuss the anime that shaped their childhoods.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4069</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Struggles of Life in Japan | Trash Taste #2]]></title>
+			<description><![CDATA[Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) discuss the process, pros, cons and thoughts on moving to Japan, how to survive here and other stories!
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Struggles-of-Life-in-Japan--Trash-Taste-2-e13ug0m</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-struggles-of-life-in-japan-trash-taste-2</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 12 Jun 2020 12:50:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921246-48000-2-bda0476dfe9ccf99.mp3" length="109294027" type="audio/mpeg"/>
+			<itunes:summary>Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA) discuss the process, pros, cons and thoughts on moving to Japan, how to survive here and other stories!
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6830</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+		<item>
+			<title><![CDATA[The Worst Anime Podcast Has Arrived | Trash Taste #1]]></title>
+			<description><![CDATA[Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA)'s first episode of the Trash Taste podcast. Discussing how they met, Attack On Titan, odd emails, and more.
+]]></description>
+			<link>https://anchor.fm/trashtaste/episodes/The-Worst-Anime-Podcast-Has-Arrived--Trash-Taste-1-e13ug0h</link>
+			<guid isPermaLink="false">https://trash-taste-podcast.castos.com/podcasts/9482/episodes/the-worst-anime-podcast-has-arrived-trash-taste-1</guid>
+			<dc:creator><![CDATA[Trash Taste Podcast]]></dc:creator>
+			<pubDate>Fri, 05 Jun 2020 12:50:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/62d12970/podcast/play/36699601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202921251-48000-2-3056e8c53cdcde2b.mp3" length="73128523" type="audio/mpeg"/>
+			<itunes:summary>Joey (TheAnimeMan), Garnt (Gigguk) and Connor (CDawgVA)&apos;s first episode of the Trash Taste podcast. Discussing how they met, Attack On Titan, odd emails, and more.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4570</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/16478748/617459f9dbb84420.png"/>
+		</item>
+	</channel>
+</rss>
+  `
+}

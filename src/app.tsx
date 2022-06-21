@@ -2,7 +2,7 @@ import React from 'react'
 import { NavigationContainer } from '@react-navigation/native'
 import { ThemeProvider } from '@shopify/restyle'
 import light from 'themes/light'
-import Navigations from 'src/navs'
+import Navigations from 'navigation/'
 
 const App = () => {
   return (

@@ -35,6 +35,9 @@
       "components/*": [
         "components/*"
       ],
+      "navigation/*": [
+        "navigation/*"
+      ],
       "screens/*": [
         "screens/*"
       ],

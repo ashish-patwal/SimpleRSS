@@ -8,6 +8,7 @@ module.exports = {
         alias: {
           atoms: './atoms',
           components: './components',
+          navigation: './navigation',
           screens: './screens',
           src: './src',
           themes: './themes',
