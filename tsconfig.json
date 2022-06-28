@@ -35,6 +35,12 @@
       "components/*": [
         "components/*"
       ],
+      "_hooks/*": [
+        "_hooks/*"
+      ],
+      "images/*": [
+        "images/*"
+      ],
       "navigation/*": [
         "navigation/*"
       ],
@@ -44,14 +50,23 @@
       "src*": [
         "src/*"
       ],
+      "states/*": [
+        "states/*"
+      ],
       "themes/*": [
         "themes/*"
       ],
-      "types": [
+      "types/*": [
         "types/*"
       ],
       "utility": [
         "utility/*"
+      ],
+      "__mocks__/*": [
+        "__mocks__/*"
+      ],
+      "__tests__/*": [
+        "__tests__/*"
       ]
     }, /* Specify a set of entries that re-map imports to additional lookup locations. */
     // "rootDirs": [],                                   /* Allow multiple folders to be treated as one when resolving modules. */

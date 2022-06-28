@@ -45,7 +45,7 @@ const theme = createTheme({
     $background: p.paper10,
     $foreground: p.paper900,
     $sidebarBackground: p.navy20,
-    $sidebarForeground: p.navy900,
+    $sidebarForeground: p.paper900,
     $sidebarSeparator: p.paper00 + '20',
     $headerBarBackground: p.paper20
   },

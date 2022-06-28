@@ -8,12 +8,17 @@ module.exports = {
         alias: {
           atoms: './atoms',
           components: './components',
+          _hooks: './_hooks',
+          images: './images',
           navigation: './navigation',
           screens: './screens',
           src: './src',
+          states: './states',
           themes: './themes',
           types: './types',
-          utility: './utility'
+          utility: './utility',
+          __mocks__: './__mocks__',
+          __tests__: './__tests__'
         }
       }
     ],
