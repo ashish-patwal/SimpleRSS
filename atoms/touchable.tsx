@@ -30,7 +30,7 @@ const restyleFunctions = composeRestyleFunctions<Theme, RestyleProps>([
   opacity
 ])
 
-interface Props extends PressableProps {
+export interface Props extends PressableProps {
   pressed?: RestyleProps
   rippleColor?: ResponsiveValue<keyof Theme['colors'], Theme>
   rippleBorderless?: boolean

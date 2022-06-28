@@ -41,11 +41,12 @@ const theme = createTheme({
     yellow: p.yellow,
 
     $primary: p.blue70,
+    $secondary: p.blue70,
     $windowBackground: '#f0f0f0',
     $background: p.paper10,
     $foreground: p.paper900,
     $sidebarBackground: p.navy20,
-    $sidebarForeground: p.paper900,
+    $sidebarForeground: p.navy900,
     $sidebarSeparator: p.paper00 + '20',
     $headerBarBackground: p.paper20
   },
