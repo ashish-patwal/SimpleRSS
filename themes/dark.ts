@@ -45,6 +45,11 @@ export const theme: Theme = createTheme({
       shadowOpacity: 0.4,
       shadowRadius: 8
     }
+  },
+  buttonVariants: {
+    defaults: {
+      bg: '#0891b2'
+    }
   }
 })
 

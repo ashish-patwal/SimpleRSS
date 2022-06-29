@@ -1,15 +1,14 @@
-import Touchable, { Props } from 'atoms/touchable'
 import React from 'react'
-import { Platform } from 'react-native'
+import { Button, ButtonProps } from 'react-native'
 
-const MenuButton: React.FC<Props> = props => (
-  <Touchable
-    borderRadius="md"
-    backgroundColor="$primary"
-    rippleColor="$secondary"
-    {...props}
-    pressed={{ opacity: Platform.select({ ios: 0.6 }) }}
-  />
-)
+interface Props extends ButtonProps {
+  active: boolean
+  icon: string | null
+  children: React.ReactNode
+}
+
+const MenuButton = ({ active, icon, children, ...props }: Props) => {
+  return <Button {...props}>{children}</Button>
+}
 
 export default MenuButton

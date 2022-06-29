@@ -1,11 +1,18 @@
 import { DrawerContentComponentProps } from '@react-navigation/drawer'
-import React from 'react'
-import { SafeAreaView } from 'react-native'
+import React, { useCallback } from 'react'
+import { Button, SafeAreaView } from 'react-native'
 import { Box, Text } from 'atoms'
 import InkdropLogo from './inkdrop-logo'
-import MenuButton from './menu-button'
 
-const Sidebar: React.FC<DrawerContentComponentProps> = () => {
+const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
+  const handlePressMain = useCallback(() => {
+    navigation.navigate('Main')
+  }, [navigation])
+
+  const handlePressAbout = useCallback(() => {
+    navigation.navigate('About')
+  }, [navigation])
+
   return (
     <Box flex={1} bg="$sidebarBackground">
       <SafeAreaView>
@@ -19,26 +26,8 @@ const Sidebar: React.FC<DrawerContentComponentProps> = () => {
         >
           <InkdropLogo width={128} height={36} color="$sidebarForeground" />
         </Box>
-        <MenuButton
-          flexDirection="row"
-          alignItems="center"
-          px="lg"
-          py="md"
-          mx="lg"
-          mt="md"
-        >
-          <Text textAlign="center">Hello</Text>
-        </MenuButton>
-        <MenuButton
-          flexDirection="row"
-          alignItems="center"
-          px="lg"
-          py="md"
-          mx="lg"
-          mt="md"
-        >
-          <Text textAlign="center">Hello</Text>
-        </MenuButton>
+        <Button title="Feeds" onPress={handlePressMain} />
+        <Button title="Add New Feed" onPress={handlePressAbout} />
       </SafeAreaView>
     </Box>
   )

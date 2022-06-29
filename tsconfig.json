@@ -53,6 +53,9 @@
       "states/*": [
         "states/*"
       ],
+      "store/*": [
+        "store/*"
+      ],
       "themes/*": [
         "themes/*"
       ],

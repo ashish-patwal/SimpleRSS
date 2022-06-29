@@ -74,6 +74,11 @@ const theme = createTheme({
       bg: '$headerBarBackground',
       borderRadius: 'hg'
     }
+  },
+  buttonVariants: {
+    defaults: {
+      bg: '#0891b2'
+    }
   }
 })
 export default theme

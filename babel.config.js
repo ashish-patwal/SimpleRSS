@@ -14,6 +14,7 @@ module.exports = {
           screens: './screens',
           src: './src',
           states: './states',
+          store: './store',
           themes: './themes',
           types: './types',
           utility: './utility',

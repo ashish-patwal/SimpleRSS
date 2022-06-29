@@ -1,9 +1,9 @@
 import * as React from 'react'
 import { createDrawerNavigator } from '@react-navigation/drawer'
 import Sidebar from 'components/sidebar'
-import MainScreen from 'screens/main'
 import AboutScreen from 'screens/about'
 import { HomeDrawerParamList } from 'types/types'
+import RootStackNavigator from './rootStackNavigator'
 
 const Drawer = createDrawerNavigator<HomeDrawerParamList>()
 
@@ -16,7 +16,7 @@ export default function RootDrawerNavigator() {
     >
       <Drawer.Screen
         name="Main"
-        component={MainScreen}
+        component={RootStackNavigator}
         options={{ headerShown: false }}
       ></Drawer.Screen>
       <Drawer.Screen
