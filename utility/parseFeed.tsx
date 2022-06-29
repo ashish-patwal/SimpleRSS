@@ -40,6 +40,8 @@ export default async function parseRSS(
     return 0
   })
 
+  return notes
+
   if (filter) {
     notes = applyFilter(filter, notes)
   }

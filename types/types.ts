@@ -19,3 +19,8 @@ export interface Feed {
   title: string
   url: string
 }
+
+export interface FeedState {
+  feeds: Feed[]
+  sortMode: SortMode
+}
