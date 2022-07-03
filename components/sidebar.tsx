@@ -1,8 +1,8 @@
 import { DrawerContentComponentProps } from '@react-navigation/drawer'
 import React, { useCallback } from 'react'
 import { Button, SafeAreaView } from 'react-native'
-import { Box, Text } from 'atoms'
-import InkdropLogo from './inkdrop-logo'
+import { Box } from 'atoms'
+import MinRSSLogo from './minrss-logo'
 
 const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
   const handlePressMain = useCallback(() => {
@@ -24,7 +24,7 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
           borderBottomColor="$sidebarSeparator"
           borderBottomWidth={1}
         >
-          <InkdropLogo width={128} height={36} color="$sidebarForeground" />
+          <MinRSSLogo width={128} height={36} color="$sidebarForeground" />
         </Box>
         <Button title="Feeds" onPress={handlePressMain} />
         <Button title="Add New Feed" onPress={handlePressAbout} />

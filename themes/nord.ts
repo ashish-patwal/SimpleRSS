@@ -4,6 +4,9 @@ import light, { Theme } from './light'
 
 // Palette
 const p = {
+  // Badge
+  purple: '#A087FF',
+
   // Polar Night
   nord0: '#2E3440',
   nord1: '#3B4252',
@@ -43,7 +46,8 @@ export const theme: Theme = createTheme({
     $headerBarBackground: p.nord2,
     $sidebarBackground: p.nord0,
     $sidebarForeground: p.nord4,
-    $sidebarSeparator: p.nord4 + '20'
+    $sidebarSeparator: p.nord4 + '20',
+    $badge: p.purple
   },
   statusBar: {
     barStyle: 'light-content' as StatusBarStyle
@@ -55,6 +59,20 @@ export const theme: Theme = createTheme({
     headerBar: {
       bg: '$headerBarBackground',
       borderRadius: 'hg'
+    }
+  },
+  badgeVariants: {
+    defaults: {
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs'
+    },
+    category: {
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs',
+      px: 'sm',
+      mr: 'sm'
     }
   }
 })

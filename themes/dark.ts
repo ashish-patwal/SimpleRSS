@@ -11,7 +11,8 @@ const p = {
   slate40: '#35393d',
   slate100: '#767577',
   slate900: '#dddddd',
-  blue70: '#2185d0'
+  blue70: '#2185d0',
+  teal: '#099C77'
 }
 
 export const theme: Theme = createTheme({
@@ -28,7 +29,8 @@ export const theme: Theme = createTheme({
     $headerBarBackground: p.slate40,
     $sidebarBackground: p.slate30,
     $sidebarForeground: p.slate900,
-    $sidebarSeparator: p.slate900 + '20'
+    $sidebarSeparator: p.slate900 + '20',
+    $badge: p.teal
   },
   statusBar: {
     barStyle: 'light-content' as StatusBarStyle
@@ -46,9 +48,18 @@ export const theme: Theme = createTheme({
       shadowRadius: 8
     }
   },
-  buttonVariants: {
+  badgeVariants: {
     defaults: {
-      bg: '#0891b2'
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs'
+    },
+    category: {
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs',
+      px: 'sm',
+      mr: 'sm'
     }
   }
 })

@@ -5,20 +5,20 @@ import NoteListItemActionView from './note-list-item-action-view'
 import SwipeableView from './swipeable-view'
 
 export interface ListItemProps extends FeedItem {
-  onPress: (noteId: string) => void
-  onSwipeLeft: (noteId: string, done: () => void) => void
+  onPress: (feedDetails: FeedItem) => void
+  onSwipeLeft: (feedDetails: FeedItem, done: () => void) => void
 }
 
 const NoteListItem: React.FC<ListItemProps> = props => {
-  const { onPress, onSwipeLeft, id } = props
+  const { onPress, onSwipeLeft, ...rest } = props
   const handlePress = useCallback(() => {
-    onPress(id)
-  }, [onPress, id])
+    onPress(rest)
+  }, [onPress, rest])
   const handleSwipeLeft = useCallback(
     done => {
-      onSwipeLeft && onSwipeLeft(id, done)
+      onSwipeLeft && onSwipeLeft(rest, done)
     },
-    [id, onSwipeLeft]
+    [rest, onSwipeLeft]
   )
 
   const renderBackView = useCallback(

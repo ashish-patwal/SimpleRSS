@@ -8,6 +8,7 @@ const p = {
   red: 'red',
   blue: 'blue',
   yellow: 'yellow',
+  purple: '#A087FF',
   paper00: '#ffffff',
   paper10: '#f5f5f4',
   paper20: '#e6e6e6',
@@ -45,10 +46,11 @@ const theme = createTheme({
     $windowBackground: '#f0f0f0',
     $background: p.paper10,
     $foreground: p.paper900,
-    $sidebarBackground: p.navy20,
+    $sidebarBackground: p.paper20,
     $sidebarForeground: p.navy900,
     $sidebarSeparator: p.paper00 + '20',
-    $headerBarBackground: p.paper20
+    $headerBarBackground: p.paper20,
+    $badge: p.purple
   },
   borderRadii: {
     xs: 4,
@@ -65,6 +67,16 @@ const theme = createTheme({
       color: '$foreground',
       fontSize: 16
     },
+    heading: {
+      fontSize: 36,
+      fontWeight: 'bold',
+      marginBottom: 'sm',
+      color: '$foreground'
+    },
+    heading2: {
+      fontSize: 20,
+      color: '$foreground'
+    },
     sidebar: {
       color: '$sidebarForeground'
     }
@@ -75,9 +87,18 @@ const theme = createTheme({
       borderRadius: 'hg'
     }
   },
-  buttonVariants: {
+  badgeVariants: {
     defaults: {
-      bg: '#0891b2'
+      bg: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs'
+    },
+    category: {
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs',
+      px: 'sm',
+      mr: 'sm'
     }
   }
 })

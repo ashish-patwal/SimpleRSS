@@ -11,6 +11,7 @@ import { NativeStackScreenProps } from '@react-navigation/native-stack'
 import useStickyHeader from '_hooks/use-sticky-header'
 import MoveNoteSheet from 'components/move-note-sheet'
 import ThemePicker from 'components/theme-picker'
+import { FeedItem } from 'rss-parserr/lib/types'
 
 type Props = CompositeScreenProps<
   DrawerScreenProps<HomeDrawerParamList, 'Main'>,
@@ -38,11 +39,11 @@ export default function MainScreen({ navigation }: Props) {
       menu.show()
     }
   }, [])
-  const handleNoteListItemPress = useCallback((noteId: string) => {
-    navigation.navigate('Detail', { noteId })
+  const handleNoteListItemPress = useCallback((feedDetails: FeedItem) => {
+    navigation.navigate('Detail', { feedDetails })
   }, [])
   const handleNoteListItemSwipeLeft = useCallback(
-    (_noteId: string, conceal: () => void) => {
+    (feedDetails: FeedItem, conceal: () => void) => {
       const { current: menu } = refMoveNoteSheet
       if (menu) {
         menu.show()
@@ -55,6 +56,7 @@ export default function MainScreen({ navigation }: Props) {
     concealNoteListItem && concealNoteListItem()
     setConcealNoteListItem(null)
   }, [concealNoteListItem])
+  console.log('rerendering main')
   return (
     <Container justifyContent="center" alignItems="center">
       <NoteList

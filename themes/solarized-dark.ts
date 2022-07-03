@@ -20,7 +20,8 @@ const p = {
   cyan: '#2aa198',
   blue: '#268bd2',
   violet: '#6c71c4',
-  magenta: '#d33682'
+  magenta: '#d33682',
+  teal: '#099C77'
 }
 
 export const theme: Theme = createTheme({
@@ -37,7 +38,8 @@ export const theme: Theme = createTheme({
     $headerBarBackground: p.base01,
     $sidebarBackground: p.base000,
     $sidebarForeground: p.base06,
-    $sidebarSeparator: p.base07 + '20'
+    $sidebarSeparator: p.base07 + '20',
+    $badge: p.teal
   },
   statusBar: {
     barStyle: 'light-content' as StatusBarStyle
@@ -53,6 +55,20 @@ export const theme: Theme = createTheme({
       shadowOffset: { width: 0, height: 2 },
       shadowOpacity: 0.4,
       shadowRadius: 8
+    }
+  },
+  badgeVariants: {
+    defaults: {
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs'
+    },
+    category: {
+      backgroundColor: '$badge',
+      borderRadius: 'sm',
+      padding: 'xs',
+      px: 'sm',
+      mr: 'sm'
     }
   }
 })

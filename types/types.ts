@@ -1,9 +1,10 @@
 import { NavigatorScreenParams } from '@react-navigation/native'
+import { FeedItem } from 'rss-parserr/lib/types'
 
 export type RootStackParamList = {
   Home: {}
   Detail: {
-    noteId: string
+    feedDetails: FeedItem
   }
 }
 
