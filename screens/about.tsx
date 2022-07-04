@@ -12,9 +12,9 @@ export default function AboutScreen() {
   } = useStickyHeader()
 
   return (
-    <Container justifyContent="center" alignItems="center">
+    <Container px="sm" pb="sm" justifyContent="center" alignItems="center">
       <FeedList
-        contentInsetTop={headerBarHeight}
+        contentInsetTop={17}
         onScroll={handleScroll}
         onItemPress={() => {
           console.log('item clicked')

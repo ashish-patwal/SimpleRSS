@@ -18,19 +18,20 @@ const FeedListItem: React.FC<FeedProps> = props => {
   }, [onPress, rest])
 
   return (
-    <Box
+    <TouchableOpacity
       flex={1}
+      margin="sm"
       borderRadius="xs"
       alignItems="center"
       justifyContent="center"
-      backgroundColor="$primary"
-      margin="sm"
       height={height}
+      bg="$primary"
+      px="lg"
+      py="sm"
+      onPress={handlePress}
     >
-      <TouchableOpacity bg="$primary" px="lg" py="sm" onPress={handlePress}>
-        <Text>{rest.title}</Text>
-      </TouchableOpacity>
-    </Box>
+      <Text>{rest.title}</Text>
+    </TouchableOpacity>
   )
 }
 
