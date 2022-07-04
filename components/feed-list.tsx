@@ -1,11 +1,6 @@
 import React, { useCallback } from 'react'
 import { Feed } from 'types/types'
-import {
-  FlatList,
-  ListRenderItem,
-  NativeScrollEvent,
-  NativeSyntheticEvent
-} from 'react-native'
+import { FlatList, NativeScrollEvent, NativeSyntheticEvent } from 'react-native'
 import { feedsAtom } from 'states/feeds'
 import { useAtom } from 'jotai'
 import { Box } from 'atoms'

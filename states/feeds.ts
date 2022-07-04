@@ -9,11 +9,6 @@ export const feedsAtom = atom<FeedState>({
       url: 'https://yenpress.com/feed/'
     },
     {
-      id: '1',
-      title: 'trashtaste',
-      url: 'https://yenpress.com/feed/'
-    },
-    {
       id: '2',
       title: 'boi',
       url: 'https://yenpress.com/feed/'

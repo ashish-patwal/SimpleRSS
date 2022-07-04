@@ -16,6 +16,7 @@ import parseRSS from 'utility/parseFeed'
 import Container from 'atoms/container'
 import { useTheme } from '@shopify/restyle'
 import { Theme } from 'themes'
+import { parserReturns } from 'types/types'
 
 interface Props {
   contentInsetTop: number
@@ -55,10 +56,11 @@ const NoteList: React.FC<Props> = ({
     if (feedState.feeds.length > 0) {
       setLoading(true)
 
-      const providers: Array<string> = []
+      let providers: Array<string> = []
       for (let i = 0; i < feedState.feeds.length; i++) {
         providers.push(feedState.feeds[i].url)
       }
+      providers = [...new Set(providers)]
 
       let requests = providers.map(provider =>
         axios.get(provider).catch(e => null)
@@ -72,7 +74,11 @@ const NoteList: React.FC<Props> = ({
             for (let i = 0; i < responses.length; i++) {
               xmlObjects.push(responses[i]!.data)
             }
-            return parseRSS(xmlObjects, feedState.sortMode)
+            return parseRSS<FeedItem>(
+              xmlObjects,
+              parserReturns.FeedItems,
+              feedState.sortMode
+            )
           })
         )
         .then(result => {

@@ -15,13 +15,18 @@ export type HomeDrawerParamList = {
 
 export type SortMode = 'asc' | 'desc'
 
-export interface Feed {
+export interface FeedBaseInfo {
   id: string
   title: string
   url: string
 }
 
 export interface FeedState {
-  feeds: Feed[]
+  feeds: FeedBaseInfo[]
   sortMode: SortMode
+}
+
+export enum parserReturns {
+  Feeds = 'Feeds',
+  FeedItems = 'FeedItems'
 }

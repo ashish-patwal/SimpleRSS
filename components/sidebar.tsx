@@ -27,7 +27,7 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
           <MinRSSLogo width={128} height={36} color="$sidebarForeground" />
         </Box>
         <Button title="Feeds" onPress={handlePressMain} />
-        <Button title="Add New Feed" onPress={handlePressAbout} />
+        <Button title="Providers" onPress={handlePressAbout} />
       </SafeAreaView>
     </Box>
   )
