@@ -1,0 +1,49 @@
+import { Box, Text, TouchableOpacity } from 'atoms'
+import React, { useCallback } from 'react'
+import { Dimensions, Image } from 'react-native'
+import { Feed } from 'rss-parserr/lib/types'
+
+export interface FeedProps extends Feed {
+  numColumns: number
+  onPress: (feed: Feed) => void
+}
+
+const FeedListItem: React.FC<FeedProps> = props => {
+  const { onPress, ...rest } = props
+  const { width } = Dimensions.get('window')
+  const height = (1.2 * width) / rest.numColumns
+
+  const handlePress = useCallback(() => {
+    onPress(rest)
+  }, [onPress, rest])
+
+  return (
+    <Box
+      flex={1}
+      overflow="hidden"
+      margin="sm"
+      borderRadius="xs"
+      height={height}
+      bg="$primary"
+    >
+      <TouchableOpacity flex={1} onPress={handlePress}>
+        <Image
+          progressiveRenderingEnabled
+          source={
+            rest.image.url
+              ? { uri: rest.image.url }
+              : require('images/blank2.jpeg')
+          }
+          style={{
+            flex: 1,
+            alignSelf: 'center',
+            aspectRatio: 1,
+            resizeMode: 'contain'
+          }}
+        />
+      </TouchableOpacity>
+    </Box>
+  )
+}
+
+export default FeedListItem

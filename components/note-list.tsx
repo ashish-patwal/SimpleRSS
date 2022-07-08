@@ -31,7 +31,7 @@ const NoteList: React.FC<Props> = ({
   onItemPress,
   onItemSwipeLeft
 }) => {
-  const Feed_Count = 20
+  const Feed_Count = 15
   const { colors } = useTheme<Theme>()
   const [count, setCount] = useState(0)
   const [feedState, _] = useAtom(feedsAtom)

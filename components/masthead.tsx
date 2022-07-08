@@ -17,6 +17,9 @@ const MastHead = ({ title, imageUrl }: Props) => {
         resizeMode="cover"
         source={imageUrl ? { uri: imageUrl } : require('images/blank3.jpeg')}
         style={{
+          alignSelf: 'center',
+          flex: 1,
+          aspectRatio: 1,
           width: width,
           height: height / 2
         }}

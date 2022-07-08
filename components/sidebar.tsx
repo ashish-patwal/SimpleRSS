@@ -9,8 +9,8 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
     navigation.navigate('Main')
   }, [navigation])
 
-  const handlePressAbout = useCallback(() => {
-    navigation.navigate('About')
+  const handlePressProviders = useCallback(() => {
+    navigation.navigate('Provider')
   }, [navigation])
 
   return (
@@ -27,7 +27,7 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
           <MinRSSLogo width={128} height={36} color="$sidebarForeground" />
         </Box>
         <Button title="Feeds" onPress={handlePressMain} />
-        <Button title="Providers" onPress={handlePressAbout} />
+        <Button title="Providers" onPress={handlePressProviders} />
       </SafeAreaView>
     </Box>
   )

@@ -1,5 +1,5 @@
 import { NavigatorScreenParams } from '@react-navigation/native'
-import { FeedItem } from 'rss-parserr/lib/types'
+import { Feed, FeedItem } from 'rss-parserr/lib/types'
 
 export type RootStackParamList = {
   Home: {}
@@ -8,16 +8,22 @@ export type RootStackParamList = {
   }
 }
 
+export type ProviderStackParamList = {
+  Providers: {}
+  ProviderDetail: {
+    providerDetails: Feed
+  }
+}
+
 export type HomeDrawerParamList = {
   Main: NavigatorScreenParams<RootStackParamList>
-  About: {}
+  Provider: NavigatorScreenParams<ProviderStackParamList>
 }
 
 export type SortMode = 'asc' | 'desc'
 
 export interface FeedBaseInfo {
   id: string
-  title: string
   url: string
 }
 

@@ -1,9 +1,9 @@
 import { Box, Container, Text, TouchableOpacity } from 'atoms'
 import { NativeStackScreenProps } from '@react-navigation/native-stack'
-import React, { ReactNode, useCallback, useState } from 'react'
+import React, { useCallback, useState } from 'react'
 import { RootStackParamList } from 'types/types'
 import MastHead from 'components/masthead'
-import { Image, Linking, ScrollView, StyleSheet } from 'react-native'
+import { Linking, ScrollView, StyleSheet } from 'react-native'
 import FeatherIcon from 'components/icon'
 import Badge from 'atoms/badge'
 import HTMLView, {
