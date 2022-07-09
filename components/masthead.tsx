@@ -5,12 +5,13 @@ import { Maybe } from 'rss-parserr/lib/types'
 
 export interface Props {
   title: string
+  heightDivisor: number
   imageUrl: Maybe<string>
 }
 
 const { height, width } = Dimensions.get('window')
 
-const MastHead = ({ title, imageUrl }: Props) => {
+const MastHead = ({ title, heightDivisor, imageUrl }: Props) => {
   return (
     <Box backgroundColor="$foreground">
       <Image
@@ -21,7 +22,7 @@ const MastHead = ({ title, imageUrl }: Props) => {
           flex: 1,
           aspectRatio: 1,
           width: width,
-          height: height / 2
+          height: height / heightDivisor
         }}
       />
     </Box>

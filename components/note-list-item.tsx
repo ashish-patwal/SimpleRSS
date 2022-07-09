@@ -3,6 +3,7 @@ import { Box, Text, TouchableOpacity } from 'atoms'
 import { FeedItem } from 'rss-parserr/lib/types'
 import NoteListItemActionView from './note-list-item-action-view'
 import SwipeableView from './swipeable-view'
+import { FadeIn } from 'react-native-reanimated'
 
 export interface ListItemProps extends FeedItem {
   onPress: (feedDetails: FeedItem) => void

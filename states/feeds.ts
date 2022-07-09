@@ -6,6 +6,18 @@ export const feedsAtom = atom<FeedState>({
     {
       id: '0',
       url: 'https://yenpress.com/feed/'
+    },
+    {
+      id: '6',
+      url: 'https://www.101greatgoals.com/feed/'
+    },
+    {
+      id: '1',
+      url: 'https://honeysanime.com/feed/'
+    },
+    {
+      id: '3',
+      url: 'http://otakuspirit.com/feed/'
     }
   ],
   sortMode: 'desc'

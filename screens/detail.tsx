@@ -68,7 +68,7 @@ export default function DetailScreen({ navigation, route }: Props) {
       showsVerticalScrollIndicator={false}
     >
       <Container flexGrow={1}>
-        <MastHead title="image" imageUrl={imageUrl} />
+        <MastHead title="image" heightDivisor={2} imageUrl={imageUrl} />
         <Box
           top={-20}
           p="lg"

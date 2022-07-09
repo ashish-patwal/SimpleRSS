@@ -38,6 +38,11 @@ const FeedListItem: React.FC<FeedProps> = props => {
       borderRadius="xs"
       height={height}
       bg="$sidebarBackground"
+      elevation={7}
+      shadowColor="$foreground"
+      shadowOpacity={0.15}
+      shadowOffset={{ width: 0, height: 10 }}
+      shadowRadius={20}
     >
       <Pressable onPress={handlePress} flex={1}>
         <Image
