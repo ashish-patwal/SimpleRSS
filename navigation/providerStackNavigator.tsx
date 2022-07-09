@@ -8,7 +8,10 @@ export default function ProviderStackNavigator() {
   const ProviderStack = createNativeStackNavigator<ProviderStackParamList>()
 
   return (
-    <ProviderStack.Navigator initialRouteName="Providers">
+    <ProviderStack.Navigator
+      initialRouteName="Providers"
+      screenOptions={{ animation: 'slide_from_right' }}
+    >
       <ProviderStack.Screen
         name="Providers"
         component={ProviderScreen}

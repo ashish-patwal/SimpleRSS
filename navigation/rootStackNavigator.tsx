@@ -8,7 +8,10 @@ export default function RootStackNavigator() {
   const RootStack = createNativeStackNavigator<RootStackParamList>()
 
   return (
-    <RootStack.Navigator initialRouteName="Home">
+    <RootStack.Navigator
+      initialRouteName="Home"
+      screenOptions={{ animation: 'slide_from_right' }}
+    >
       <RootStack.Screen
         name="Home"
         component={MainScreen}
