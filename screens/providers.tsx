@@ -9,7 +9,7 @@ import Container from 'atoms/container'
 import { Feed } from 'rss-parserr/lib/types'
 
 type Props = CompositeScreenProps<
-  DrawerScreenProps<HomeDrawerParamList, 'About'>,
+  DrawerScreenProps<HomeDrawerParamList, 'Provider'>,
   NativeStackScreenProps<ProviderStackParamList>
 >
 

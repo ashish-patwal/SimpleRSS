@@ -117,7 +117,6 @@ const FeedList: React.FC<Props> = ({ contentInsetTop, onItemPress }) => {
   )
 
   const renderItem = useCallback(({ item }) => {
-    console.log('rendering item start')
     return (
       <FeedListItem numColumns={NUM_COLUMNS} {...item} onPress={onItemPress} />
     )
