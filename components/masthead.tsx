@@ -15,7 +15,7 @@ const { height, width } = Dimensions.get('window')
 
 const MastHead = ({ title, heightDivisor, imageUrl }: Props) => {
   return (
-    <AnimatedBox backgroundColor="$foreground" entering={FadeOut}>
+    <AnimatedBox backgroundColor="$foreground">
       <Image
         resizeMode="cover"
         source={imageUrl ? { uri: imageUrl } : require('images/blank3.jpeg')}
