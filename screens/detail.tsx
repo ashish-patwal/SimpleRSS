@@ -1,6 +1,6 @@
 import { Box, Container, Text, TouchableOpacity } from 'atoms'
 import { NativeStackScreenProps } from '@react-navigation/native-stack'
-import React, { useCallback, useState } from 'react'
+import React, { useCallback, useRef, useState } from 'react'
 import { RootStackParamList } from 'types/types'
 import MastHead from 'components/masthead'
 import { Linking, ScrollView, StyleSheet } from 'react-native'
@@ -34,11 +34,15 @@ export default function DetailScreen({ navigation, route }: Props) {
   const xcontent = content ? trimmer(content) : description
 
   const { colors } = useTheme<Theme>()
+  const captureFirstImageTag = useRef(false)
 
   const handleRenderNode = useCallback(
     (node, index, siblings, parent, defaultRenderer) => {
       if (node.type == 'tag' && node.name == 'img') {
-        setImageUrl(node.attribs.src)
+        if (!captureFirstImageTag.current) {
+          captureFirstImageTag.current = true
+          setImageUrl(node.attribs.src)
+        }
         return null
       }
     },
