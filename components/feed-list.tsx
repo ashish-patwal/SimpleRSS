@@ -63,7 +63,6 @@ const FeedList: React.FC<Props> = ({ contentInsetTop, onItemPress }) => {
       providers.push(feedState.feeds[i].url)
     }
     providers = [...new Set(providers)]
-    console.log('responses are sorted')
 
     let requests = providers.map(provider =>
       axios.get(provider).catch(e => null)
@@ -77,7 +76,6 @@ const FeedList: React.FC<Props> = ({ contentInsetTop, onItemPress }) => {
           for (let i = 0; i < responses.length; i++) {
             xmlObjects.push(responses[i]!.data)
           }
-          console.log('parsing')
           return parseRSS<Feed>(
             xmlObjects,
             parserReturns.Feeds,
@@ -88,7 +86,6 @@ const FeedList: React.FC<Props> = ({ contentInsetTop, onItemPress }) => {
       .then(result => {
         setFeedDetailsList(result)
         setRefreshing(false)
-        console.log('set loading set to false')
         setLoading(false)
       })
       .catch(error => {

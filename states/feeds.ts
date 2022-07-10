@@ -6,6 +6,18 @@ export const feedsAtom = atom<FeedState>({
     {
       id: '0',
       url: 'https://yenpress.com/feed/'
+    },
+    {
+      id: '6',
+      url: 'https://www.101greatgoals.com/feed/'
+    },
+    {
+      id: '8',
+      url: 'https://feeds.simplecast.com/qm_9xx0g'
+    },
+    {
+      id: '2',
+      url: 'https://feeds.sbs.com.au/anime-show-joey-akidearest'
     }
   ],
   sortMode: 'desc'

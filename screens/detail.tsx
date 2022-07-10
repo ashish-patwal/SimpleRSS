@@ -27,7 +27,6 @@ export default function DetailScreen({ navigation, route }: Props) {
   const [imageUrl, setImageUrl] = useState<string | undefined | null>(
     route.params.feedDetails.imageUrl
   )
-  console.log('refreshing details')
   const { title, content, description, published, categories, links } =
     route.params.feedDetails
 
