@@ -44,7 +44,7 @@ export const theme: Theme = createTheme({
     $separator: p.nord3,
     $navbarBackground: p.nord0,
     $headerBarBackground: p.nord2,
-    $sidebarBackground: p.nord0,
+    $sidebarBackground: p.nord3,
     $sidebarForeground: p.nord4,
     $sidebarSeparator: p.nord4 + '20',
     $badge: p.purple
