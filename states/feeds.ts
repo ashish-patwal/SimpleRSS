@@ -12,12 +12,12 @@ export const feedsAtom = atom<FeedState>({
       url: 'https://www.101greatgoals.com/feed/'
     },
     {
-      id: '1',
-      url: 'https://honeysanime.com/feed/'
+      id: '2',
+      url: 'https://feeds.sbs.com.au/anime-show-joey-akidearest'
     },
     {
-      id: '3',
-      url: 'http://otakuspirit.com/feed/'
+      id: '8',
+      url: 'https://feeds.simplecast.com/qm_9xx0g'
     }
   ],
   sortMode: 'desc'

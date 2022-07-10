@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { useCallback } from 'react'
 import { NativeStackScreenProps } from '@react-navigation/native-stack'
 import Container from 'atoms/container'
-import { ScrollView } from 'react-native'
+import { Linking, ScrollView } from 'react-native'
 import { ProviderStackParamList } from 'types/types'
 import MastHead from 'components/masthead'
 import AnimatedBox from 'atoms/animated-box'
@@ -25,6 +25,18 @@ export default function ProviderDetailScreen({ navigation, route }: Props) {
     categories,
     image
   } = route.params.providerDetails
+
+  const handleUrlButtonPress = useCallback(async () => {
+    const link = links[0]?.url
+
+    const supported = link ? Linking.canOpenURL(link) : false
+
+    if (supported && link) {
+      await Linking.openURL(link)
+    } else {
+      console.log('Dont know how to open the url.')
+    }
+  }, [])
 
   return (
     <ScrollView
@@ -114,11 +126,11 @@ export default function ProviderDetailScreen({ navigation, route }: Props) {
                   >
                     <Box flexDirection="row">
                       <Text fontWeight="900">Url :&nbsp;</Text>
-                      <Text>{link.url}</Text>
+                      <Text onPress={handleUrlButtonPress}>{link.url}</Text>
                     </Box>
                     <Box flexDirection="row">
                       <Text fontWeight="900">Rel :&nbsp;</Text>
-                      <Text>{link.rel}</Text>
+                      <Text onPress={handleUrlButtonPress}>{link.rel}</Text>
                     </Box>
                   </AnimatedBox>
                 )
