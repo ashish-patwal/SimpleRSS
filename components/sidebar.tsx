@@ -13,6 +13,10 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
     navigation.navigate('Provider')
   }, [navigation])
 
+  const handlePressNewFeed = useCallback(() => {
+    navigation.navigate('NewFeed')
+  }, [navigation])
+
   return (
     <Box flex={1} bg="$sidebarBackground">
       <SafeAreaView>
@@ -28,6 +32,7 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
         </Box>
         <Button title="Feeds" onPress={handlePressMain} />
         <Button title="Providers" onPress={handlePressProviders} />
+        <Button title="NewFeed" onPress={handlePressNewFeed} />
       </SafeAreaView>
     </Box>
   )

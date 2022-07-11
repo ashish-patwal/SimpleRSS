@@ -4,6 +4,7 @@ import Sidebar from 'components/sidebar'
 import { HomeDrawerParamList } from 'types/types'
 import RootStackNavigator from './rootStackNavigator'
 import ProviderStackNavigator from './providerStackNavigator'
+import NewFeed from 'screens/add-new-feed-provider'
 
 const Drawer = createDrawerNavigator<HomeDrawerParamList>()
 
@@ -22,6 +23,11 @@ export default function RootDrawerNavigator() {
       <Drawer.Screen
         name="Provider"
         component={ProviderStackNavigator}
+        options={{ headerShown: false }}
+      ></Drawer.Screen>
+      <Drawer.Screen
+        name="NewFeed"
+        component={NewFeed}
         options={{ headerShown: false }}
       ></Drawer.Screen>
     </Drawer.Navigator>

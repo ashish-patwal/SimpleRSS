@@ -18,6 +18,7 @@ export type ProviderStackParamList = {
 export type HomeDrawerParamList = {
   Main: NavigatorScreenParams<RootStackParamList>
   Provider: NavigatorScreenParams<ProviderStackParamList>
+  NewFeed: {}
 }
 
 export type SortMode = 'asc' | 'desc'
@@ -27,8 +28,18 @@ export interface FeedBaseInfo {
   url: string
 }
 
+export interface ProviderBaseInfo {
+  id: string
+  url: string
+}
+
 export interface FeedState {
   feeds: FeedBaseInfo[]
+  sortMode: SortMode
+}
+
+export interface ProviderState {
+  providers: ProviderBaseInfo[]
   sortMode: SortMode
 }
 

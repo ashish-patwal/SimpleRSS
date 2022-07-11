@@ -10,7 +10,7 @@ import {
 import NoteListItem from './note-list-item'
 import { feedsAtom } from 'states/feeds'
 import { FeedItem } from 'rss-parserr/lib/types'
-import { useAtom } from 'jotai'
+import { atom, useAtom } from 'jotai'
 import axios from 'axios'
 import parseRSS from 'utility/parseFeed'
 import Container from 'atoms/container'

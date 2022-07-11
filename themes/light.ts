@@ -100,6 +100,12 @@ const theme = createTheme({
       px: 'sm',
       mr: 'sm'
     }
+  },
+  textInputVariants: {
+    defaults: {
+      color: '$foreground',
+      fontSize: 16
+    }
   }
 })
 export default theme
