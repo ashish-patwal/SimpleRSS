@@ -21,7 +21,7 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
     <Box flex={1} bg="$sidebarBackground">
       <SafeAreaView>
         <Box
-          alignItems="flex-start"
+          alignItems="center"
           justifyContent="center"
           pl="md"
           pb="sm"
@@ -29,7 +29,7 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
           borderBottomColor="$sidebarSeparator"
           borderBottomWidth={1}
         >
-          <MinRSSLogo width={128} height={36} color="$sidebarForeground" />
+          <MinRSSLogo width={128} height={72} color="$sidebarForeground" />
         </Box>
         <Pressable
           p="xs"

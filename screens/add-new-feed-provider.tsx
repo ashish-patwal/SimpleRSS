@@ -41,7 +41,9 @@ export default function NewFeed({ navigation }: Props) {
 
   return (
     <Container justifyContent="flex-start" alignItems="center">
-      <Text variant="heading2">URL</Text>
+      <Text variant="heading2" fontWeight="bold">
+        URL
+      </Text>
       <Controller
         control={control}
         rules={{

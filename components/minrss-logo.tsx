@@ -1,5 +1,5 @@
 import React from 'react'
-import LogoSVG from 'images/Min.svg'
+import LogoSVG from 'images/minrss.svg'
 import { Theme } from 'themes'
 import { ColorProps, useResponsiveProp, useTheme } from '@shopify/restyle'
 import { SvgProps } from 'react-native-svg'
