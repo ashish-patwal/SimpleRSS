@@ -8,15 +8,16 @@ import {
   RefreshControl
 } from 'react-native'
 import NoteListItem from './note-list-item'
-import { feedsAtom } from 'states/feeds'
 import { FeedItem } from 'rss-parserr/lib/types'
-import { atom, useAtom } from 'jotai'
+import { useAtom } from 'jotai'
 import axios from 'axios'
 import parseRSS from 'utility/parseFeed'
 import Container from 'atoms/container'
 import { useTheme } from '@shopify/restyle'
 import { Theme } from 'themes'
 import { parserReturns } from 'types/types'
+import persistedFeedState from 'store/store'
+import Text from 'atoms/text'
 
 interface Props {
   contentInsetTop: number
@@ -34,7 +35,7 @@ const NoteList: React.FC<Props> = ({
   const Feed_Count = 15
   const { colors } = useTheme<Theme>()
   const [count, setCount] = useState(0)
-  const [feedState, _] = useAtom(feedsAtom)
+  const [feedState, _] = useAtom(persistedFeedState)
   const [visibleFeedItems, setVisibleFeedItems] = useState<FeedItem[]>([])
   const [loading, setLoading] = useState(true)
   const [feedItems, setFeedItems] = useState<FeedItem[]>([])
@@ -53,12 +54,12 @@ const NoteList: React.FC<Props> = ({
   }, [count, visibleFeedItems, feedItems, offset])
 
   const getFeed = useCallback(() => {
-    if (feedState.feeds.length > 0) {
+    if (feedState.providers.length > 0) {
       setLoading(true)
 
       let providers: Array<string> = []
-      for (let i = 0; i < feedState.feeds.length; i++) {
-        providers.push(feedState.feeds[i].url)
+      for (let i = 0; i < feedState.providers.length; i++) {
+        providers.push(feedState.providers[i].url)
       }
       providers = [...new Set(providers)]
 
@@ -93,6 +94,8 @@ const NoteList: React.FC<Props> = ({
           setRefreshing(false)
           setLoading(false)
         })
+    } else {
+      setLoading(false)
     }
   }, [feedState])
 
@@ -112,6 +115,14 @@ const NoteList: React.FC<Props> = ({
     },
     [onItemPress, onItemSwipeLeft]
   )
+
+  if (feedState.providers.length < 1) {
+    return (
+      <Container justifyContent="center" alignItems="center">
+        <Text>No providers added</Text>
+      </Container>
+    )
+  }
 
   if (loading) {
     return (

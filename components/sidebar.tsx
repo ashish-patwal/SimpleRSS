@@ -1,7 +1,7 @@
 import { DrawerContentComponentProps } from '@react-navigation/drawer'
 import React, { useCallback } from 'react'
-import { Button, SafeAreaView } from 'react-native'
-import { Box } from 'atoms'
+import { SafeAreaView } from 'react-native'
+import { Box, Pressable, Text } from 'atoms'
 import MinRSSLogo from './minrss-logo'
 
 const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
@@ -22,17 +22,51 @@ const Sidebar: React.FC<DrawerContentComponentProps> = ({ navigation }) => {
       <SafeAreaView>
         <Box
           alignItems="flex-start"
+          justifyContent="center"
           pl="md"
           pb="sm"
-          mt="xs"
+          my="xs"
           borderBottomColor="$sidebarSeparator"
           borderBottomWidth={1}
         >
           <MinRSSLogo width={128} height={36} color="$sidebarForeground" />
         </Box>
-        <Button title="Feeds" onPress={handlePressMain} />
-        <Button title="Providers" onPress={handlePressProviders} />
-        <Button title="NewFeed" onPress={handlePressNewFeed} />
+        <Pressable
+          p="xs"
+          m="xs"
+          onPress={handlePressMain}
+          bg="$primary"
+          width="80%"
+          maxWidth={500}
+          borderRadius="sm"
+          alignSelf="center"
+        >
+          <Text textAlign="center">Feeds</Text>
+        </Pressable>
+        <Pressable
+          p="xs"
+          m="xs"
+          onPress={handlePressProviders}
+          bg="$primary"
+          width="80%"
+          maxWidth={500}
+          borderRadius="sm"
+          alignSelf="center"
+        >
+          <Text textAlign="center">Providers</Text>
+        </Pressable>
+        <Pressable
+          p="xs"
+          m="xs"
+          onPress={handlePressNewFeed}
+          bg="$primary"
+          width="80%"
+          maxWidth={500}
+          borderRadius="sm"
+          alignSelf="center"
+        >
+          <Text textAlign="center">NewFeed</Text>
+        </Pressable>
       </SafeAreaView>
     </Box>
   )

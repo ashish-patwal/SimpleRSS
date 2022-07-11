@@ -1,11 +1,16 @@
 import { Box, Container, Pressable, Text, TextInput } from 'atoms'
 import React, { useLayoutEffect } from 'react'
 import { Controller, useForm } from 'react-hook-form'
-import { Theme } from 'themes'
-import { useTheme } from '@shopify/restyle'
 import { DrawerScreenProps } from '@react-navigation/drawer'
-import { HomeDrawerParamList } from 'types/types'
-import { TouchableOpacity } from 'atoms/touchable'
+import {
+  FeedState,
+  HomeDrawerParamList,
+  ProviderBaseInfo,
+  ProviderState
+} from 'types/types'
+import persistedFeedState from 'store/store'
+import { useAtom } from 'jotai'
+import shortid from 'shortid'
 
 type Form = {
   url: string
@@ -14,7 +19,7 @@ type Form = {
 type Props = DrawerScreenProps<HomeDrawerParamList, 'NewFeed'>
 
 export default function NewFeed({ navigation }: Props) {
-  const theme = useTheme<Theme>()
+  const [feedState, setFeedState] = useAtom(persistedFeedState)
   const {
     control,
     handleSubmit,
@@ -22,14 +27,21 @@ export default function NewFeed({ navigation }: Props) {
   } = useForm<Form>()
 
   const onSubmit = handleSubmit(data => {
-    console.log(data)
+    const latestProvider: ProviderBaseInfo = {
+      id: shortid.generate(),
+      url: data.url
+    }
+    const updatedFeedState: ProviderState = {
+      providers: [latestProvider, ...feedState.providers],
+      sortMode: feedState.sortMode
+    }
+    setFeedState(updatedFeedState)
+    navigation.goBack()
   })
 
   return (
     <Container justifyContent="flex-start" alignItems="center">
-      <Text variant="heading2" {...(errors.url ? { color: 'red' } : null)}>
-        URL
-      </Text>
+      <Text variant="heading2">URL</Text>
       <Controller
         control={control}
         rules={{
@@ -43,14 +55,14 @@ export default function NewFeed({ navigation }: Props) {
           <TextInput
             margin="lg"
             padding="sm"
-            style={{ width: '90%', textAlign: 'center' }}
+            textAlign="center"
+            style={{ width: '90%' }}
             {...(errors.url
               ? { color: 'red', borderColor: 'red', borderWidth: 0.25 }
               : { borderWidth: 0.25 })}
             onBlur={onBlur}
             value={value}
             onChangeText={onChange}
-            placeholder="Link"
           />
         )}
       />

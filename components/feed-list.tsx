@@ -6,7 +6,7 @@ import {
   NativeSyntheticEvent,
   RefreshControl
 } from 'react-native'
-import { feedsAtom } from 'states/feeds'
+import persistedFeedState from 'store/store'
 import { useAtom } from 'jotai'
 import { Box, Container } from 'atoms'
 import FeedListItem from './feed-list-item'
@@ -47,20 +47,20 @@ interface Props {
 
 const FeedList: React.FC<Props> = ({ contentInsetTop, onItemPress }) => {
   const { colors } = useTheme<Theme>()
-  const [feedState, _] = useAtom(feedsAtom)
+  const [feedState, _] = useAtom(persistedFeedState)
   const [feedDetailsList, setFeedDetailsList] = useState<Feed[]>([])
   const [loading, setLoading] = useState(true)
   const [refreshing, setRefreshing] = useState(false)
   const NUM_COLUMNS = 2
 
   const getFeedProviderDetails = useCallback(() => {
-    if (feedState.feeds.length > 0) {
+    if (feedState.providers.length > 0) {
       setLoading(true)
     }
 
     let providers: Array<string> = []
-    for (let i = 0; i < feedState.feeds.length; i++) {
-      providers.push(feedState.feeds[i].url)
+    for (let i = 0; i < feedState.providers.length; i++) {
+      providers.push(feedState.providers[i].url)
     }
     providers = [...new Set(providers)]
 
